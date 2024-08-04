@@ -1,0 +1,17 @@
+pandas # use for data manipulation
+notebook # use to open jupyter notebook 
+numpy # use for mathematical calculation
+seaborn # use for advance data visualization
+scikit-learn 
+feature_engine
+pymysql
+matplotlib
+sqlalchemy # connect with sql database
+python-box==6.0.2
+pyYAML # use for yaml file
+ensure==1.0.2   
+joblib # to save the machine learning model
+types-pyYAML
+Flask
+Flask-Cors
+-e . # to setup the local packages
