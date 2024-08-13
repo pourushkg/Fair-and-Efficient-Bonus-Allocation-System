@@ -1,0 +1,23 @@
+COLUMNS:
+  customer_id: object
+  first_name: object
+  last_name: object
+  country: object
+  age: int64
+  gender: object
+  income_level: int64
+  Winning_percentage: int32
+  Days_Since_Last_Bet: float64
+  Active_Days: float64
+  Total_Number_of_Bets: float64
+  Total_Amount_Wagered: float64
+  Average_Bet_Amount: float64
+  Number_of_Bonuses_Received: float64
+  Amount_of_Bonuses_Received: float64
+  Revenue_from_Bonuses: float64
+  Increase_in_Bets_After_Bonus: float64
+  Increase_in_wagering_after_Bonus: float64
+  
+
+TARGET_COLUMNS:
+  Should_Receive_Bonus: int64

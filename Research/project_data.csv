@@ -1,0 +1,1001 @@
+Player_Id,First_Name,Last_Name,Country,Gender,Age,Betting_Platform_Tenure,Game_Genre,Daily_playtime,Bet_frequency,Average_bet,Total_bet,Withdraw_Frequency,Welcome_bonus,Other_bonus,Max_win,Avg_profit,Max_loss
+410133,Brian,Snyder,Argentina,Female,53,More than a year,Cricket,1 - 2 hours,Weekly,1711,92,Monthly,570,1000,50516,18831,57928
+634893,Kayla,Reed,India,Female,64,1-3 months,Football,1 - 2 hours,No,69748,121,Monthly,432,394,8459,5980,111729
+683361,Mike,Williams,Argentina,Male,22,1-3 months,Cricket,2 - 4 hours,Occasionally,71061,7,Monthly,244,2461,21041,258,123540
+615062,Heather,Smith,Brazil,Female,63,Less than a month,Baseball,Less than 1 hour,Daily,1514,75,Daily,523,210,870,615,3726
+195699,Kaitlyn,Kennedy,Brazil,Female,31,3-6 months,Basketball,Less than 1 hour,Daily,5059,104,Monthly,625,281,39358,39243,74432
+469520,Jon,Wang,India,Female,56,3-6 months,Football,1 - 2 hours,Daily,67117,120,Monthly,469,178,20268,3888,131092
+135633,Shelby,Stephenson,India,Male,33,1-3 months,Cricket,2 - 4 hours,Weekly,80475,77,Daily,446,276,29540,20884,75253
+986099,Kelly,Ruiz,Mexico,Male,54,6-12 months,Cricket,1 - 2 hours,Daily,2310,83,Monthly,591,239,58727,28782,82342
+799859,Steven,Johnson,India,Female,27,More than a year,Basketball,2 - 4 hours,Weekly,4940,91,Daily,2926,375,67421,2741,7227
+888611,Dwayne,Arnold,Brazil,Male,58,More than a year,Avitaor,4 - 6 hours,Monthly,3697,119,Weekly,108,52,23047,1393,29542
+799913,Matthew,Smith,India,Female,61,1-3 months,Basketball,1 - 2 hours,Monthly,11933,113,Daily,568,118,4677,3307,26298
+416766,David,Bailey,India,Male,57,Less than a month,Cricket,1 - 2 hours,Monthly,56916,254,Monthly,523,228,63511,13677,25075
+172287,Megan,Frey,Brazil,Female,44,3-6 months,Avitaor,1 - 2 hours,Monthly,7468,106,Weekly,514,141,60000,21603,61776
+303737,Dennis,Bautista,Brazil,Male,30,6-12 months,Cricket,4 - 6 hours,Daily,16015,82,Monthly,444,21,33744,846,55007
+600529,Elizabeth,Leach,Mexico,Male,21,1-3 months,Cricket,2 - 4 hours,Occasionally,6176,43,Monthly,373,130,14885,3818,25641
+387669,Sandra,Morgan,Brazil,Female,63,3-6 months,Cricket,2 - 4 hours,Monthly,322,110,Daily,340,19,78869,7111,27130
+499304,Phillip,Benton,India,Female,69,1-3 months,Cricket,Not using per day.,Daily,63760,98,Weekly,874,404,9770,2495,75019
+888938,Karina,Santos,Argentina,Male,20,1-3 months,Ladie badminton ,4 - 6 hours,Daily,6900,62,Daily,579,122,79033,26467,52555
+984656,Brandon,Brandt,Argentina,Male,30,Less than a month,Basketball,4 - 6 hours,Occasionally,1171,88,Daily,906,95,78564,55542,78931
+747989,Brandon,Snyder,India,Female,59,1-3 months,Cricket,2 - 4 hours,Monthly,2180,83,Daily,567,221,33096,23398,11835
+512845,Vanessa,Hoover,India,Female,21,More than a year,Football,1 - 2 hours,Daily,34575,80,Monthly,560,376,15932,11263,67864
+196560,Jessica,Taylor,India,Male,55,3-6 months,Cricket,2 - 4 hours,Daily,19899,71,Weekly,106,457,64640,45699,119383
+450879,Scott,Williamson,Mexico,Female,53,1-3 months,Football,4 - 6 hours,Daily,2211,119,Monthly,170,159,21275,9740,25988
+459325,Jillian,Green,Mexico,Male,56,More than a year,Cricket,4 - 6 hours,Daily,13076,98,Monthly,371,121,38980,12681,64249
+446776,Ryan,Rodriguez,Mexico,Male,34,6-12 months,Virtual Games,1 - 2 hours,Occasionally,10845,117,Monthly,481,222,50565,13907,71142
+670189,Bethany,Allen,India,Male,24,More than a year,Cricket,2 - 4 hours,Daily,2130,102,Daily,899,121,70389,14729,70516
+672586,Mark,Vaughan,India,Female,70,3-6 months,Virtual Games,1 - 2 hours,Monthly,90177,120,Rarely/Never,557,516,25062,17718,184237
+119152,Debbie,Castro,India,Female,28,1-3 months,Avitaor,2 - 4 hours,Weekly,4764,111,Weekly,692,136,74243,33367,82038
+734612,Doris,Petersen,Brazil,Female,54,1-3 months,Virtual Games,More than 6 hours,Daily,6202,80,Daily,660,880,28637,18561,49212
+950254,Johnathan,Martinez,Mexico,Male,59,1-3 months,Cricket,4 - 6 hours,Daily,19464,110,Daily,806,10,42177,5671,71649
+937479,Jason,Duran,Argentina,Female,70,1-3 months,Cricket,2 - 4 hours,Occasionally,9196,591,Weekly,523,449,55027,5378,73190
+290328,Tyler,Gilmore,Mexico,Male,48,More than a year,Cricket,1 - 2 hours,Daily,9385,71,Weekly,263,336,56354,27507,90517
+140135,Scott,Marshall,Mexico,Female,57,1-3 months,Football,Less than 1 hour,Monthly,99623,77,Monthly,534,610,21218,15001,52065
+524743,Barry,Fitzgerald,Mexico,Male,49,More than a year,Cricket,4 - 6 hours,Weekly,4862,105,Monthly,537,44,463,327,8681
+791265,Samantha,Martin,Argentina,Female,37,1-3 months,Basketball,2 - 4 hours,Weekly,13388,121,Monthly,479,2787,33032,31292,66869
+725118,Sarah,Carrillo,Brazil,Female,50,3-6 months,Basketball,1 - 2 hours,Daily,21451,29,Weekly,907,131,30928,4332,10716
+744561,Robert,Gallagher,Mexico,Female,24,1-3 months,Cricket,4 - 6 hours,Daily,7595,87,Rarely/Never,301,18,12554,8875,30236
+821155,Stanley,Garcia,India,Male,27,Less than a month,Football,Less than 1 hour,Daily,1657,78,Daily,178,132,2013,1423,5573
+415231,Angelica,White,Argentina,Female,21,3-6 months,Cricket,1 - 2 hours,Weekly,14560,72,Weekly,614,509,56594,17818,99897
+792761,Daniel,Williams,Mexico,Male,27,3-6 months,Cricket,2 - 4 hours,Occasionally,10362,28,Monthly,448,134,75616,33932,113711
+199604,Perry,Benson,India,Female,42,More than a year,Cricket,1 - 2 hours,Weekly,6731,95,Monthly,112,119,25353,8158,45512
+858039,Madison,Wright,Brazil,Male,39,3-6 months,Virtual Games,Less than 1 hour,No,17196,9,Weekly,122,9,36636,1085,68690
+520868,Scott,Berger,Argentina,Female,45,Less than a month,Football,Less than 1 hour,Daily,8061,348,Rarely/Never,180,324,48252,3147,62989
+546849,James,Hicks,Argentina,Female,35,1-3 months,Virtual Games,4 - 6 hours,Monthly,9677,105,Daily,509,271,67567,17098,48502
+177343,Deanna,Dickson,Mexico,Female,66,3-6 months,Ladie badminton ,4 - 6 hours,Daily,7337,84,Monthly,3759,236,77978,4162,83959
+651901,Benjamin,Collins,Brazil,Male,34,Less than a month,Football,4 - 6 hours,Daily,1530,113,Monthly,645,24,57010,16514,59978
+986436,Shaun,Aguirre,Argentina,Female,29,1-3 months,Cricket,Less than 1 hour,Daily,17213,120,Weekly,435,82,16617,4790,46100
+794716,Michele,Holloway,India,Male,37,3-6 months,Cricket,Less than 1 hour,Daily,16432,66,Rarely/Never,592,437,164893,12103,93211
+224265,Matthew,Watts,Mexico,Female,59,6-12 months,Cricket,4 - 6 hours,Daily,9858,25,Monthly,779,404,42188,35375,88106
+543801,Samuel,Barton,Mexico,Female,70,3-6 months,Cricket,2 - 4 hours,Daily,21381,69,Weekly,606,366,46776,10051,5506
+459803,Marcus,Phillips,Brazil,Male,26,Less than a month,Cricket,2 - 4 hours,Occasionally,8608,78,Monthly,473,324,38368,12213,64021
+354499,Anna,Duncan,India,Male,52,6-12 months,Other,1 - 2 hours,Weekly,25127,110,Weekly,599,227,29526,5336,70278
+531904,Heather,Skinner,Argentina,Male,41,6-12 months,Cricket,2 - 4 hours,Occasionally,78870,4,Weekly,756,140,35642,15132,114651
+364607,Cassandra,Mckenzie,India,Male,20,1-3 months,Basketball,More than 6 hours,Monthly,5849,98,Daily,179,207,25127,17764,49919
+449723,Edward,Olsen,Argentina,Female,52,More than a year,Cricket,Less than 1 hour,Daily,2352,86,Weekly,655,101,46252,21103,57808
+654044,Mark,Avery,Argentina,Female,33,3-6 months,Football,1 - 2 hours,Monthly,5541,15,Weekly,826,382,1306,923,10991
+136617,Brittany,Howard,India,Male,47,More than a year,Cricket,More than 6 hours,Daily,109853,41,Daily,785,410,29037,8922,42470
+658761,Melissa,Smith,Argentina,Male,70,6-12 months,Virtual Games,4 - 6 hours,Weekly,8222,51,Monthly,436,119,100344,27101,119302
+253099,James,Morrison,India,Female,28,6-12 months,Cricket,Less than 1 hour,Daily,60564,111,Daily,453,166,34701,15888,140647
+271114,Alexa,Woodward,Argentina,Female,57,Less than a month,Basketball,More than 6 hours,Monthly,1509,38,Daily,2204,134,72348,1731,43922
+109347,Kendra,Dyer,India,Female,63,3-6 months,Cricket,4 - 6 hours,Occasionally,21198,91,Monthly,327,309,41467,29316,93450
+935204,Regina,Ramos,Brazil,Male,63,1-3 months,Virtual Games,1 - 2 hours,Daily,62066,93,Weekly,7,166,42299,1688,106690
+477464,Timothy,Davis,Argentina,Male,31,Less than a month,Basketball,1 - 2 hours,Weekly,2301,94,Monthly,347,49,51698,24839,64569
+682399,Megan,Cobb,Mexico,Female,68,1-3 months,Cricket,1 - 2 hours,Weekly,59445,98,Weekly,19391,412,10121,7155,112429
+702361,David,Murphy,Brazil,Female,45,More than a year,Virtual Games,4 - 6 hours,Daily,13125,64,Rarely/Never,594,252,37043,24664,36999
+853985,Terri,Cook,Mexico,Female,52,Less than a month,Cricket,4 - 6 hours,Weekly,14123,585,Daily,708,77,1303,921,25158
+558481,Jose,Odonnell,Mexico,Female,22,Less than a month,Cricket,2 - 4 hours,Occasionally,3976,73,Daily,322,322,25351,17922,5204
+240335,Andrew,Myers,Brazil,Male,43,1-3 months,Cricket,Less than 1 hour,Occasionally,8616,55,Monthly,702,309,16151,2842,29910
+927455,Christopher,Moran,Mexico,Male,59,Less than a month,Cricket,2 - 4 hours,Occasionally,26424,102,Rarely/Never,259,293,28151,19902,95855
+275850,Joshua,Wall,Mexico,Female,54,1-3 months,Cricket,1 - 2 hours,Monthly,26341,107,Weekly,783,8,26558,11460,51147
+331909,John,Grant,India,Female,27,More than a year,Avitaor,Less than 1 hour,Daily,6907,22,Monthly,339,193,117925,29868,97216
+205529,Samantha,Alvarado,Brazil,Female,24,1-3 months,Basketball,1 - 2 hours,No,16151,27,Weekly,276,254,16145,9401,47764
+439292,Donna,Turner,India,Male,39,1-3 months,Virtual Games,2 - 4 hours,Monthly,9002,92,Monthly,181,61,21515,15210,24216
+351867,Brian,Ellis,Mexico,Female,27,1-3 months,Cricket,2 - 4 hours,Monthly,801,69,Rarely/Never,332,212,61725,12688,42334
+457517,Barbara,Wong,Mexico,Female,27,Less than a month,Basketball,4 - 6 hours,Monthly,13400,16,Monthly,711,45,17211,12168,46386
+475987,Christian,Townsend,Mexico,Female,30,More than a year,Football,More than 6 hours,Occasionally,48541,42,Rarely/Never,516,316,40184,1525,43335
+843797,Ashley,Jones,Mexico,Male,46,1-3 months,Football,Less than 1 hour,Daily,65,84,Weekly,454,106,52243,13011,4182
+412615,Anthony,Andrews,Mexico,Male,57,3-6 months,Basketball,2 - 4 hours,Daily,1214,32,Weekly,360,273,49088,28225,29756
+966374,Kristen,Zuniga,Argentina,Male,41,3-6 months,Cricket,More than 6 hours,Daily,20890,13,Monthly,424,158,77888,15154,103648
+366654,Sarah,Hamilton,Mexico,Male,20,3-6 months,Football,2 - 4 hours,Weekly,12716,68,Daily,410,395,62167,20691,100703
+841957,Cheryl,Ware,Argentina,Male,46,1-3 months,Cricket,4 - 6 hours,Occasionally,7495,38,Weekly,273,93,64969,6564,81429
+685159,Zachary,Callahan,Brazil,Female,38,More than a year,Cricket,2 - 4 hours,Daily,10602,57,Rarely/Never,232,95,57457,38794,96980
+891708,Krista,Sanders,Brazil,Male,38,1-3 months,Basketball,Less than 1 hour,Weekly,15695,63,Monthly,495,103,39771,21284,76330
+843464,Crystal,Leach,Argentina,Male,54,Less than a month,Cricket,4 - 6 hours,Daily,2921,67,Weekly,621,72,57500,18062,65703
+580422,Christina,Castillo,Brazil,Male,28,6-12 months,Cricket,4 - 6 hours,Monthly,10750,62,Weekly,732,36,107980,12029,69113
+512334,Andrea,Brown,India,Female,65,Less than a month,Cards,2 - 4 hours,Daily,78783,115,Weekly,442,80,55008,22169,162517
+215499,David,Bowman,Argentina,Male,67,More than a year,Cricket,More than 6 hours,Weekly,665,107,Rarely/Never,609,268,40785,25748,54502
+572616,Jeremy,Johnson,Mexico,Male,25,More than a year,Kabaddi,Less than 1 hour,Occasionally,12119,101,Weekly,144,29,22153,15662,51236
+713636,Andrea,Adams,Mexico,Male,37,1-3 months,Cricket,2 - 4 hours,Daily,75220,119,Monthly,567,349,33221,29159,33065
+705590,Kurt,Sanchez,Argentina,Male,56,Less than a month,Cricket,More than 6 hours,Daily,18258,56,Monthly,13370,337,53631,30903,73900
+706619,Taylor,David,Argentina,Male,18,1-3 months,Cricket,More than 6 hours,Occasionally,17237,84,Weekly,307,18,72362,478,79500
+377228,Joel,Quinn,Argentina,Female,56,Less than a month,Football,4 - 6 hours,Monthly,15814,56,Rarely/Never,633,90,248,175,26464
+717020,Kayla,Mullen,Argentina,Female,34,Less than a month,Cricket,1 - 2 hours,Weekly,1047,66,Weekly,536,365,15218,10799,22747
+453772,Jennifer,Bright,Brazil,Male,55,More than a year,Basketball,1 - 2 hours,Weekly,160179,123,Monthly,289,157,16692,10921,117792
+266925,Anthony,Cervantes,Mexico,Female,40,More than a year,Cricket,Less than 1 hour,Weekly,23486,81,Weekly,353,619,160907,17073,146064
+540002,Theresa,Wade,Mexico,Male,69,More than a year,Cards,2 - 4 hours,Occasionally,313,67,Monthly,806,77,24105,16774,16063
+202883,Chad,Vaughn,India,Male,32,1-3 months,Basketball,4 - 6 hours,Monthly,29,50,Weekly,122,187,55568,6634,1111
+457356,Sarah,Bell,Brazil,Male,43,More than a year,Cricket,2 - 4 hours,No,9518,95,Monthly,202,310,114925,25873,101703
+521622,Regina,Page,Mexico,Female,65,More than a year,Table Tennis,2 - 4 hours,Occasionally,15181,80,Daily,576,298,1988,1405,27871
+576483,Brandi,Smith,Mexico,Male,29,Less than a month,Cricket,Less than 1 hour,Weekly,1904,104,Daily,538,60,43046,1995,865
+916545,Elizabeth,Perez,Brazil,Male,57,6-12 months,Virtual Games,More than 6 hours,Daily,86512,50,Monthly,409,293,41564,29385,56873
+537021,Beverly,Owens,Mexico,Male,57,3-6 months,Football,2 - 4 hours,Daily,555,121,Monthly,621,365,37323,16686,51438
+742811,Richard,Lewis,Mexico,Male,42,3-6 months,Cricket,Less than 1 hour,Weekly,13385,69,Weekly,491,294,56771,31804,69756
+203265,Sandra,Smith,India,Male,38,1-3 months,Kabaddi,2 - 4 hours,Daily,19140,40,Monthly,418,337,41111,535,65993
+974110,Cynthia,Gonzales,Mexico,Male,66,1-3 months,Cricket,Less than 1 hour,Daily,373,33,Daily,299,74,20587,4501,9428
+807709,Andrew,Sanchez,Mexico,Male,54,1-3 months,Football,1 - 2 hours,Weekly,23342,107,Weekly,253,332,40935,28940,96240
+657585,Nancy,Taylor,Brazil,Female,61,More than a year,Baseball,2 - 4 hours,Weekly,5052,72,Weekly,760,136,13601,6978,25334
+819844,Julia,Martin,Mexico,Female,23,1-3 months,Football,1 - 2 hours,Weekly,5983,113,Monthly,43,198,19698,7020,38143
+946249,Michelle,Rodriguez,Argentina,Male,27,1-3 months,Cricket,Less than 1 hour,No,8185,76,Monthly,682,337,30265,9238,54404
+533700,Guy,Bryant,Mexico,Female,39,3-6 months,Cricket,1 - 2 hours,Daily,40101,52,Weekly,9038,659,63009,6455,84476
+307314,Michael,Zavala,Mexico,Female,49,Less than a month,Virtual Games,Less than 1 hour,Weekly,108865,103,Monthly,190,260,61147,2936,232687
+198481,Rodney,Cooper,Mexico,Male,38,3-6 months,Ladie badminton ,2 - 4 hours,Weekly,65093,95,Daily,719,133,18110,8543,142088
+409652,Dan,Norton,Argentina,Male,34,6-12 months,Cricket,4 - 6 hours,Daily,62968,117,Weekly,503,112,11614,4828,117558
+427878,Theresa,Martinez,Mexico,Male,52,6-12 months,Basketball,1 - 2 hours,Occasionally,5127,7,Rarely/Never,228,73,26779,16855,27490
+284415,Joshua,Kerr,Mexico,Male,30,3-6 months,Basketball,2 - 4 hours,Monthly,75815,118,Daily,661,347,27542,27452,160378
+916483,Christopher,Walker,Mexico,Male,27,1-3 months,Cricket,2 - 4 hours,Daily,12374,94,Weekly,533,151,28353,14386,55723
+141922,Diana,Erickson,Mexico,Female,48,More than a year,Cricket,2 - 4 hours,Daily,8280,657,Monthly,692,450,44610,355,39615
+289480,Daniel,Tyler,Mexico,Male,43,Less than a month,Basketball,More than 6 hours,Weekly,20123,69,Monthly,66,20,41319,22050,42331
+897494,Susan,Collins,Mexico,Female,45,1-3 months,Cricket,2 - 4 hours,Monthly,6241,128,Monthly,591,141,6583,4654,19584
+506511,Elizabeth,Chandler,India,Female,25,3-6 months,Cricket,4 - 6 hours,Monthly,72012,101,Monthly,360,140,38027,11201,119411
+281125,Michelle,House,Brazil,Female,22,Less than a month,Kabaddi,4 - 6 hours,Occasionally,8198,87,Monthly,809,241,38591,24840,72463
+496154,Kurt,Schroeder,Argentina,Female,23,Less than a month,Table Tennis,2 - 4 hours,Weekly,2028,126,Daily,164,73,53071,793,46672
+912669,Andrew,Simmons,India,Male,51,Less than a month,Football,2 - 4 hours,Weekly,11757,122,Monthly,522,229,9247,6537,1201
+717324,Michael,Greene,India,Male,57,1-3 months,Virtual Games,More than 6 hours,Daily,7687,85,Daily,89,334,9010,3119,22709
+953592,Brian,Hernandez,Mexico,Male,18,6-12 months,Football,1 - 2 hours,Weekly,1293,69,Monthly,359,113,40609,19375,52865
+702275,Linda,Perez,Brazil,Female,64,3-6 months,Basketball,2 - 4 hours,Occasionally,6195,85,Monthly,602,2307,29148,8813,47249
+912020,Courtney,Mendoza,Mexico,Male,36,1-3 months,Football,1 - 2 hours,Weekly,19198,119,Daily,15,312,9392,6725,43590
+307635,Zachary,Chavez,Mexico,Female,62,3-6 months,Baseball,1 - 2 hours,Daily,1821,44,Monthly,448,143,57187,22062,61372
+134790,Nicole,Newton,Argentina,Male,36,More than a year,Cricket,1 - 2 hours,No,13699,46,Rarely/Never,652,198,33467,22368,68724
+700071,Katie,Hicks,India,Male,55,More than a year,Cricket,4 - 6 hours,Daily,11652,79,Weekly,864,458,7134,5044,29297
+834357,Gregory,Barnett,Argentina,Male,54,3-6 months,Football,1 - 2 hours,Weekly,11293,47,Weekly,531,154,45018,18894,82148
+575539,Christopher,Nash,Argentina,Male,19,1-3 months,Basketball,1 - 2 hours,Daily,2697,110,Monthly,430,57,77645,39715,41001
+178850,Angela,Rivera,India,Female,48,More than a year,Cricket,1 - 2 hours,Weekly,7337,111,Daily,630,270,17914,17370,48673
+189189,Kristina,Beck,Mexico,Female,27,Less than a month,Cricket,Less than 1 hour,Weekly,128264,4,Rarely/Never,826,324,74755,2630,21463
+788867,Melissa,Perez,India,Male,19,3-6 months,Cricket,4 - 6 hours,Daily,38388,61,Rarely/Never,666,1308,50163,35464,80682
+447199,Justin,Bradford,Argentina,Female,63,3-6 months,Football,Less than 1 hour,Occasionally,120899,66,Monthly,480,75,43215,30552,60468
+313770,Ashley,Fischer,Mexico,Male,45,Less than a month,Cricket,1 - 2 hours,Monthly,4236,44,Weekly,2656,165,13173,9313,29694
+735406,Timothy,Ellis,India,Female,67,1-3 months,Cricket,1 - 2 hours,Daily,7860,92,Monthly,426,220,20920,14790,24445
+202106,Heather,Le,Mexico,Female,59,6-12 months,Cricket,1 - 2 hours,Daily,10172,105,Weekly,4130,385,11450,3121,28829
+953184,Lynn,West,Argentina,Female,58,1-3 months,Other,2 - 4 hours,Monthly,5791,38,Rarely/Never,479,225,32828,14482,53072
+352216,Todd,Stevenson,Argentina,Female,62,1-3 months,Cricket,1 - 2 hours,Daily,2765,77,Monthly,698,316,50713,19790,64723
+199595,Brandy,Wilkinson,Argentina,Female,65,6-12 months,Other,4 - 6 hours,Weekly,5224,32,Daily,257,312,37545,20092,59141
+389571,Gary,Glover,India,Female,48,More than a year,Basketball,1 - 2 hours,Monthly,871,44,Weekly,560,14,8212,5806,13180
+105600,Patrick,Lewis,India,Female,44,6-12 months,Basketball,2 - 4 hours,Daily,8328,103,Weekly,599,11,33050,4181,49986
+855436,Alison,Torres,Brazil,Female,35,More than a year,Cricket,1 - 2 hours,Daily,719,105,Weekly,703,43,31986,21240,42249
+937980,Michelle,Smith,Brazil,Female,22,6-12 months,Avitaor,1 - 2 hours,Monthly,11359,46,Weekly,284,323,21810,8903,44117
+814735,Brandy,Moon,Brazil,Female,35,Less than a month,Virtual Games,4 - 6 hours,Occasionally,14865,98,Weekly,644,410,75816,16999,36177
+871152,Sarah,Dougherty,Mexico,Female,54,Less than a month,Virtual Games,4 - 6 hours,Daily,132201,57,Monthly,653,294,74836,4734,105596
+856108,Meredith,Robinson,India,Male,68,Less than a month,Virtual Games,4 - 6 hours,Daily,2007,107,Weekly,308,137,72143,4668,63890
+484160,Robert,Walters,India,Female,43,3-6 months,Cricket,Less than 1 hour,Daily,6077,123,Daily,661,255,72022,10431,68195
+845960,James,Mann,Argentina,Female,35,3-6 months,Football,2 - 4 hours,Occasionally,19249,52,Daily,463,30,2610,1447,35137
+862209,Jonathan,Elliott,Brazil,Female,34,1-3 months,Virtual Games,1 - 2 hours,Weekly,99729,89,Rarely/Never,13,26,47017,6507,43386
+113953,Meredith,Williams,Argentina,Female,51,3-6 months,Basketball,Less than 1 hour,Daily,32867,36,Rarely/Never,138,67,7428,5251,53751
+730043,Eddie,Williams,Brazil,Male,21,1-3 months,Virtual Games,4 - 6 hours,Monthly,7532,76,Rarely/Never,144,7,21478,16949,51627
+916416,Cody,Adams,India,Male,54,6-12 months,Cricket,4 - 6 hours,Monthly,6387,38,Weekly,654,387,9750,6893,24289
+334087,William,Bean,Argentina,Male,50,1-3 months,Cricket,Less than 1 hour,Weekly,31262,103,Weekly,742,272,2593,2180,55566
+169359,Travis,Wilson,India,Female,47,1-3 months,Cricket,Less than 1 hour,Occasionally,2069,88,Monthly,740,133,26013,7150,31207
+102112,Calvin,Ramirez,Mexico,Male,68,3-6 months,Cricket,Less than 1 hour,Weekly,10393,28,Monthly,735,392,76060,11978,42198
+485847,Shawn,Myers,Brazil,Female,34,1-3 months,Kabaddi,2 - 4 hours,Occasionally,48335,94,Daily,609,87,32138,16015,119577
+471253,Patrick,Anderson,Argentina,Female,67,More than a year,Basketball,1 - 2 hours,Daily,12306,66,Monthly,542,40,47713,33732,26859
+875947,David,Castillo,Argentina,Female,45,1-3 months,Virtual Games,2 - 4 hours,Occasionally,3022,64,Weekly,65,349,27904,19727,44973
+306487,Kristin,Jones,India,Female,58,1-3 months,Virtual Games,2 - 4 hours,Daily,2172,44,Weekly,281,76,44903,24660,73201
+299387,Sarah,Monroe,Brazil,Female,21,1-3 months,Cricket,Less than 1 hour,Daily,8652,103,Monthly,612,212,33482,23671,69103
+240682,Courtney,Ellison,Mexico,Male,58,Less than a month,Basketball,More than 6 hours,Daily,4018,86,Daily,14078,214,38322,34744,67127
+512376,Rachael,Garcia,Brazil,Male,20,3-6 months,Basketball,Less than 1 hour,Weekly,10158,67,Weekly,71,279,31954,22591,61811
+148936,Melissa,Watts,India,Male,18,Less than a month,Cricket,2 - 4 hours,Weekly,2559,96,Daily,622,37,50713,5851,50305
+170974,Ashley,Henry,Brazil,Female,23,3-6 months,Cricket,Less than 1 hour,Weekly,13191,89,Weekly,663,405,54626,7135,50354
+275383,Brittany,Sherman,Brazil,Female,30,1-3 months,Cricket,2 - 4 hours,No,5081,49,Rarely/Never,305,388,29933,21162,53784
+212516,Clayton,Armstrong,Argentina,Female,24,3-6 months,Basketball,4 - 6 hours,Daily,4061,96,Monthly,367,379,9780,6914,24805
+669941,Kristen,Jones,Mexico,Female,33,6-12 months,Football,4 - 6 hours,Daily,19437,52,Monthly,585,267,10904,9254,48741
+611719,Casey,Francis,Mexico,Female,59,3-6 months,Cricket,1 - 2 hours,Weekly,613,73,Weekly,553,56,84286,33027,34276
+913307,Kellie,Smith,Brazil,Male,68,3-6 months,Cricket,2 - 4 hours,Daily,8917,32,Rarely/Never,617,480,22419,15850,55680
+120228,Jennifer,Green,Mexico,Female,62,1-3 months,Cricket,1 - 2 hours,Monthly,2217,54,Weekly,592,157,55192,24536,52133
+710876,Laura,Guerrero,Mexico,Female,30,1-3 months,Cricket,4 - 6 hours,Weekly,10634,16,Weekly,542,387,38383,5765,60979
+908350,Christian,Randall,Brazil,Female,57,1-3 months,Basketball,4 - 6 hours,Weekly,5961,74,Monthly,798,193,171124,9346,127566
+470437,Thomas,Peterson,Argentina,Female,25,More than a year,Football,1 - 2 hours,Daily,16428,72,Weekly,368,135,33244,23721,74163
+861017,Ross,Levine,India,Male,37,More than a year,Cricket,Less than 1 hour,Occasionally,82514,104,Monthly,23,383,7124,5036,116448
+207023,Devin,Martinez,Mexico,Female,60,6-12 months,Cricket,Not using per day.,Daily,6582,90,Daily,752,293,501,354,11575
+602174,Ryan,Johnson,Argentina,Male,69,Less than a month,Football,2 - 4 hours,Monthly,11401,52,Monthly,344,30,50465,6174,76997
+601175,Kelly,Small,India,Male,64,Less than a month,Football,2 - 4 hours,Daily,95355,42,Monthly,105,189,25971,18361,126566
+637232,Holly,Hughes,India,Male,66,More than a year,Cricket,1 - 2 hours,Weekly,10379,93,Weekly,509,277,36217,2906,49442
+974588,Vanessa,Sanchez,Brazil,Female,59,3-6 months,Cricket,1 - 2 hours,Daily,4141,107,Weekly,694,354,8117,5738,18278
+514413,Heidi,Carlson,India,Male,68,Less than a month,Basketball,1 - 2 hours,Weekly,18094,62,Weekly,184,119,2519,1781,33430
+618688,Jeffery,Cohen,Argentina,Male,61,Less than a month,Baseball,2 - 4 hours,No,2729,115,Weekly,492,593,57386,8831,52224
+997416,Rebecca,Delgado,India,Female,20,1-3 months,Baseball,Less than 1 hour,Monthly,27260,71,Monthly,562,264,74757,27610,129538
+872182,Daniel,Walton,Brazil,Female,66,More than a year,Baseball,1 - 2 hours,Occasionally,60150,111,Monthly,446,472,67230,23100,148329
+808023,Amber,Lara,Mexico,Female,60,Less than a month,Cricket,2 - 4 hours,Monthly,4938,100,Monthly,547,146,34089,18645,54587
+513278,Micheal,Herrera,India,Male,33,3-6 months,Virtual Games,4 - 6 hours,Occasionally,13196,103,Monthly,542,501,34132,729,50575
+591357,Billy,Warren,India,Female,20,Less than a month,Other,1 - 2 hours,Monthly,32315,40,Daily,749,83,10498,8055,68682
+507973,Ryan,Cohen,Brazil,Female,37,1-3 months,Basketball,1 - 2 hours,Daily,9977,65,Monthly,293,1385,3119,2205,20872
+718845,Anthony,Irwin,India,Male,60,More than a year,Cricket,4 - 6 hours,Daily,20488,706,Weekly,547,352,30159,25076,69990
+769213,Samuel,Reeves,Brazil,Male,35,3-6 months,Virtual Games,2 - 4 hours,Monthly,103992,16,Rarely/Never,481,303,11645,7639,187650
+339153,Brittany,Brennan,Brazil,Male,61,3-6 months,Cricket,1 - 2 hours,Monthly,16918,89,Monthly,223,338,41700,14687,61550
+460249,Amy,Hodge,Argentina,Female,19,3-6 months,Cricket,4 - 6 hours,Daily,10140,90,Monthly,712,79,29482,7770,47503
+639642,Carol,Cross,India,Female,62,1-3 months,Baseball,2 - 4 hours,Monthly,8212,113,Rarely/Never,293,101,62723,14598,82965
+995525,Michael,Robbins,Brazil,Male,32,3-6 months,Cards,2 - 4 hours,Monthly,10224,70,Daily,514,144,62024,9351,75816
+541321,Rebecca,Morse,Argentina,Male,47,Less than a month,Virtual Games,2 - 4 hours,Weekly,59592,57,Weekly,692,1,52176,21576,158220
+201215,Bradley,Bean,Argentina,Female,62,3-6 months,Basketball,4 - 6 hours,Daily,667,99,Weekly,456,164,22223,15711,30576
+311242,Nicholas,Gutierrez,India,Female,30,3-6 months,Basketball,4 - 6 hours,Daily,2059,46,Weekly,803,399,44191,3086,41805
+588059,Michael,Lee,Brazil,Female,55,1-3 months,Cricket,2 - 4 hours,Daily,61918,37,Daily,467,152,266053,39873,74274
+525167,Jorge,Thompson,Argentina,Female,62,More than a year,Basketball,4 - 6 hours,Occasionally,3881,71,Monthly,360,136,3779,2672,11735
+511715,Mary,Martin,India,Male,65,Less than a month,Baseball,Less than 1 hour,Daily,32798,82,Weekly,57,237,52097,1607,54640
+977178,Alan,Williams,Mexico,Male,49,More than a year,Basketball,2 - 4 hours,Occasionally,15117,2,Monthly,852,101,40585,7644,23158
+488980,John,Robles,Brazil,Male,53,3-6 months,Basketball,4 - 6 hours,Monthly,57978,70,Monthly,575,117,22526,26,87494
+693228,Veronica,Powell,India,Female,70,Less than a month,Cricket,4 - 6 hours,Occasionally,6050,68,Monthly,568,189,74550,395,74663
+107227,Andrea,Smith,Argentina,Female,50,More than a year,Cricket,4 - 6 hours,Occasionally,101722,62,Daily,292,34,38661,27332,222468
+426644,Brittany,Jackson,India,Female,65,1-3 months,Cricket,More than 6 hours,Monthly,3928,130,Monthly,513,357,2709,1915,10304
+202902,Mary,Scott,Argentina,Female,69,3-6 months,Cards,Less than 1 hour,Occasionally,9570,37,Monthly,669,651,47918,3557,67592
+130161,Joseph,Jacobson,Argentina,Female,50,More than a year,Cricket,4 - 6 hours,Daily,2549,73,Monthly,621,74,36197,17093,47810
+849055,Andrew,Harris,Mexico,Male,50,6-12 months,Baseball,Less than 1 hour,Occasionally,12155,79,Weekly,480,508,40243,9666,74200
+754224,Victor,Marshall,Brazil,Female,20,More than a year,Football,4 - 6 hours,Weekly,10045,85,Monthly,745,20,60812,16014,80021
+319837,Justin,Hebert,Argentina,Male,56,6-12 months,Kabaddi,4 - 6 hours,Daily,16693,103,Daily,672,111,439099,22929,116937
+725843,Sabrina,Ford,Argentina,Male,57,1-3 months,Basketball,Less than 1 hour,Weekly,132473,86,Monthly,521,503,10433,5299,231750
+818024,Melissa,Perry,India,Male,49,Less than a month,Football,1 - 2 hours,Daily,1613,75,Monthly,552,364,28774,748,27091
+556981,Anthony,Fitzpatrick,Brazil,Female,36,1-3 months,Football,4 - 6 hours,Daily,1813,18,Rarely/Never,451,393,23253,8590,8954
+231964,Jessica,Barr,India,Female,40,1-3 months,Cricket,1 - 2 hours,Occasionally,10080,83,Monthly,370,151,51986,10422,68175
+179386,Aaron,Aguilar,Brazil,Female,63,More than a year,Baseball,Less than 1 hour,Daily,79595,654,Monthly,457,348,45932,9663,77333
+993970,Kimberly,Johnson,India,Male,67,3-6 months,Basketball,2 - 4 hours,Occasionally,2818,791,Daily,337,36,43010,39661,70746
+531426,Albert,Williams,Brazil,Female,51,6-12 months,Cricket,2 - 4 hours,Daily,4697,77,Daily,703,111,56471,37807,85147
+660475,Jill,Jenkins,Argentina,Female,59,1-3 months,Cricket,1 - 2 hours,Daily,12982,139,Weekly,632,170,49830,19387,91231
+539243,Joann,Miller,Brazil,Female,70,1-3 months,Cricket,2 - 4 hours,Weekly,79272,57,Monthly,259,233,34661,24504,105855
+500843,Michael,Martinez,Argentina,Male,21,Less than a month,Cricket,4 - 6 hours,Daily,14923,117,Rarely/Never,514,77,40750,11257,39434
+773558,Melissa,Wong,Mexico,Female,64,3-6 months,Baseball,4 - 6 hours,Occasionally,64887,74,Monthly,172,305,14507,10947,19873
+192063,Candice,Williams,Argentina,Female,30,1-3 months,Football,Less than 1 hour,Monthly,7250,50,Monthly,192,2890,11534,8154,28228
+416163,Kayla,Shelton,India,Male,28,3-6 months,Kabaddi,1 - 2 hours,Weekly,5471,97,Daily,541,66,5365,3793,16596
+646515,Stephanie,Valdez,Argentina,Female,67,More than a year,Baseball,1 - 2 hours,Weekly,13433,611,Weekly,77,357,53452,7319,29988
+546602,Zachary,May,Mexico,Female,31,More than a year,Cricket,Less than 1 hour,Weekly,10211,65,Daily,593,185,11505,8134,33078
+190193,Carol,Barron,India,Male,23,3-6 months,Football,1 - 2 hours,Monthly,5725,95,Monthly,748,140,56151,24161,77726
+749568,Roger,Gonzalez,Brazil,Male,33,Less than a month,Football,1 - 2 hours,Weekly,14900,90,Daily,731,148,9544,6747,38056
+603784,Michelle,Schultz,Brazil,Male,59,6-12 months,Football,1 - 2 hours,Monthly,24503,34,Monthly,844,339,18611,4249,59338
+405845,Daniel,Reese,Argentina,Male,62,More than a year,Football,Less than 1 hour,No,79167,56,Monthly,540,338,59005,599,138398
+729776,Michael,Larson,Argentina,Female,50,1-3 months,Virtual Games,1 - 2 hours,Occasionally,8076,88,Monthly,655,77,16470,12049,36884
+359157,Andrea,Foster,Brazil,Female,62,3-6 months,Cricket,Less than 1 hour,Daily,7817,60,Monthly,23,100,58666,14301,70455
+909244,Megan,Davenport,Mexico,Female,36,3-6 months,Football,Less than 1 hour,Weekly,592,84,Daily,631,89,24013,16976,38090
+832690,Megan,Soto,Argentina,Female,53,3-6 months,Virtual Games,Less than 1 hour,Monthly,1255,115,Monthly,218,73,26454,6698,28746
+862962,Stacey,Young,India,Male,36,Less than a month,Virtual Games,1 - 2 hours,Occasionally,816,94,Weekly,406,46,58939,1861,58752
+760827,Taylor,Wright,Mexico,Male,18,Less than a month,Cricket,Less than 1 hour,Weekly,105875,84,Daily,461,295,38654,3556,51857
+151858,Travis,Valdez,Mexico,Female,56,More than a year,Cricket,Not using per day.,Occasionally,12427,10,Monthly,579,11,43254,59,56284
+245615,Sherri,Parsons,Argentina,Male,69,1-3 months,Football,Not using per day.,Daily,5405,115,Monthly,536,34,41576,10459,55468
+874155,Jeffrey,Russell,Mexico,Female,52,More than a year,Football,Less than 1 hour,Monthly,7099,89,Weekly,592,85,39640,8941,57969
+933040,Kimberly,Lopez,Brazil,Male,47,1-3 months,Cards,4 - 6 hours,Daily,17932,101,Weekly,168,145,7519,5316,40210
+766231,Alexander,Gregory,Brazil,Female,46,1-3 months,Basketball,1 - 2 hours,Weekly,4883,103,Weekly,34,245,12905,9123,16621
+715923,Joseph,Moreno,Argentina,Female,24,Less than a month,Virtual Games,1 - 2 hours,Weekly,4875,64,Daily,160,250,37982,8321,49555
+272202,Theresa,Martin,India,Female,61,Less than a month,Virtual Games,Less than 1 hour,Weekly,9673,2,Weekly,387,175,8481,5996,14818
+840360,Marie,Wright,Mexico,Male,53,3-6 months,Football,2 - 4 hours,Weekly,50301,74,Weekly,280,466,168255,19499,69701
+919047,Kathleen,Morris,India,Male,45,3-6 months,Basketball,1 - 2 hours,Monthly,14042,73,Monthly,555,123,38866,28105,92733
+887151,Nicole,Evans,India,Female,32,3-6 months,Football,4 - 6 hours,Monthly,19205,17,Weekly,710,371,8303,5870,43417
+625643,Allison,Lewis,India,Male,62,Less than a month,Cricket,1 - 2 hours,Daily,4750,2,Weekly,754,199,1135,802,7277
+491325,Maria,Phillips,India,Male,58,Less than a month,Football,1 - 2 hours,Occasionally,153396,80,Daily,304,390,3895,2754,104559
+149067,Alexander,Ho,Mexico,Male,53,Less than a month,Basketball,2 - 4 hours,Monthly,6872,79,Monthly,784,74,51438,7995,35555
+966849,Justin,Hunt,Argentina,Male,29,Less than a month,Basketball,More than 6 hours,Monthly,1609,71,Monthly,490,57,67814,14279,70439
+257179,Joshua,Taylor,Mexico,Male,53,3-6 months,Cricket,1 - 2 hours,Weekly,18685,505,Monthly,563,106,50423,27979,115327
+873980,Gabriel,Arroyo,India,Male,68,1-3 months,Basketball,2 - 4 hours,Weekly,8715,28,Weekly,371,268,66512,15750,88201
+164729,Carolyn,Randall,Argentina,Female,47,1-3 months,Cricket,Less than 1 hour,Monthly,21897,94,Weekly,837,110,6506,4600,45330
+874567,Breanna,Jones,Brazil,Female,67,6-12 months,Cricket,2 - 4 hours,Daily,11779,83,Monthly,674,130,17305,12067,43703
+948790,Donna,Newman,Brazil,Male,69,3-6 months,Basketball,4 - 6 hours,Daily,11526,102,Monthly,7251,244,4016,2839,24694
+435491,Amy,Garner,India,Female,70,Less than a month,Basketball,1 - 2 hours,Daily,2988,96,Weekly,404,419,812,574,6079
+436246,Shawn,Sanchez,Brazil,Male,41,6-12 months,Baseball,1 - 2 hours,Weekly,22130,57,Monthly,484,133,19680,17281,2140
+854448,Jacob,Lyons,India,Female,49,More than a year,Football,1 - 2 hours,Daily,37959,95,Rarely/Never,668,214,52654,37225,143526
+738218,Kelly,Brown,India,Male,52,1-3 months,Virtual Games,2 - 4 hours,Daily,586,66,Weekly,488,365,50722,1401,29856
+535983,Ariel,Farmer,Brazil,Male,44,6-12 months,Cricket,2 - 4 hours,Daily,14580,90,Monthly,492,57,30332,13379,63904
+476396,Dustin,Taylor,Mexico,Female,66,1-3 months,Cricket,1 - 2 hours,Daily,10029,86,Weekly,491,154,40505,16217,63396
+222520,Kyle,Strickland,India,Male,63,1-3 months,Cricket,Less than 1 hour,Daily,16367,110,Daily,591,3,15803,11172,49300
+466380,Troy,Anderson,Brazil,Female,25,Less than a month,Football,1 - 2 hours,Daily,5153,753,Monthly,648,380,53625,31333,79502
+564740,Martha,James,Argentina,Male,44,1-3 months,Cricket,1 - 2 hours,Daily,15005,92,Rarely/Never,641,322,24668,17440,59546
+272041,Marcus,Franklin,Mexico,Male,20,1-3 months,Basketball,1 - 2 hours,Occasionally,10489,111,Monthly,217,7,53437,13888,82297
+239907,Mary,Lawrence,India,Male,44,Less than a month,Cricket,Not using per day.,Weekly,5203,358,Weekly,504,59,32892,3376,42985
+817019,Lauren,May,Mexico,Male,36,1-3 months,Cricket,1 - 2 hours,Daily,86170,66,Weekly,2,379,21777,15396,164775
+109614,Andrew,Stewart,Mexico,Male,67,Less than a month,Cricket,2 - 4 hours,Weekly,11954,109,Rarely/Never,19,140,43198,519,55837
+661324,Michael,Hardin,India,Male,31,More than a year,Basketball,1 - 2 hours,Daily,13556,86,Weekly,51,695,26510,18807,59803
+646342,Garrett,Flynn,India,Female,43,1-3 months,Cricket,Less than 1 hour,Daily,3046,105,Daily,528,152,24433,17273,40583
+107052,Melissa,Smith,Argentina,Male,19,1-3 months,Other,2 - 4 hours,Daily,45384,37,Daily,657,140,31581,22327,131116
+432298,Christopher,Hammond,Argentina,Male,31,1-3 months,Cricket,Less than 1 hour,Occasionally,116529,101,Daily,455,142,63567,31437,155164
+205201,Dale,Barrett,Argentina,Male,35,1-3 months,Kabaddi,4 - 6 hours,Weekly,17123,86,Monthly,443,9,45213,1848,67133
+330841,Denise,Mccormick,India,Female,61,3-6 months,Football,2 - 4 hours,Daily,13959,118,Monthly,558,192,33008,3927,57477
+623247,Diane,Cunningham,Brazil,Female,69,1-3 months,Cricket,4 - 6 hours,Daily,11528,88,Weekly,357,257,18597,13148,53700
+460445,Margaret,Mahoney,Brazil,Female,34,1-3 months,Cards,2 - 4 hours,Daily,19230,26,Monthly,365,347,73186,4657,96029
+422113,Joy,Pratt,Brazil,Male,45,More than a year,Cricket,4 - 6 hours,Daily,90397,21,Weekly,646,197,37939,19632,196813
+987633,Connie,Burton,Mexico,Female,44,1-3 months,Football,Less than 1 hour,Monthly,9162,24,Monthly,593,119,3250,2298,20402
+247353,Jodi,Walsh,India,Female,62,More than a year,Football,1 - 2 hours,Weekly,18447,102,Weekly,3,228,33615,8796,65480
+773253,Beth,Adams,Argentina,Male,36,3-6 months,Virtual Games,More than 6 hours,Daily,16528,83,Daily,363,223,10375,8828,43149
+452849,Mark,Williams,India,Male,69,More than a year,Cricket,1 - 2 hours,Daily,29159,71,Monthly,525,370,16455,11633,71344
+328721,Douglas,Hubbard,Mexico,Female,27,1-3 months,Basketball,1 - 2 hours,Weekly,56498,116,Weekly,693,31,33831,2084,122953
+502467,Parker,Howell,Brazil,Male,32,More than a year,Cricket,1 - 2 hours,Monthly,64937,22,Rarely/Never,115,571,7598,5372,77412
+972476,Kayla,Vasquez,Brazil,Female,26,6-12 months,Football,Less than 1 hour,Weekly,1227,48,Monthly,457,408,52263,22206,45112
+762199,Haley,Lopez,Argentina,Male,18,More than a year,Cricket,Not using per day.,Monthly,15407,32,Monthly,339,307,56970,17167,29265
+316498,Deborah,Pratt,Argentina,Female,36,Less than a month,Football,4 - 6 hours,Monthly,80424,329,Weekly,398,87,69866,26500,147439
+482858,Ashley,Jones,Brazil,Male,45,More than a year,Cricket,2 - 4 hours,Monthly,114,111,Daily,689,25,18603,1448,8913
+805311,Jessica,Jackson,Mexico,Male,53,6-12 months,Virtual Games,Less than 1 hour,Daily,21423,106,Daily,595,85,2812,1988,42659
+646031,Amy,Aguirre,Mexico,Female,28,3-6 months,Baseball,1 - 2 hours,Monthly,9759,39,Weekly,225,137,11406,8064,32192
+977676,Cheyenne,Payne,Mexico,Female,69,1-3 months,Virtual Games,2 - 4 hours,Daily,8397,117,Weekly,624,112,19530,13807,41392
+631523,Maria,Moore,Argentina,Male,59,1-3 months,Ladie badminton ,More than 6 hours,Weekly,53753,84,Weekly,377,190,48128,32737,137532
+332911,Michael,Alvarado,Brazil,Male,19,1-3 months,Cricket,2 - 4 hours,Occasionally,5798,36,Rarely/Never,903,316,74952,2031,75439
+892497,Victoria,Thomas,Brazil,Female,69,3-6 months,Football,1 - 2 hours,Daily,5495,114,Monthly,539,0,31465,8442,22216
+630842,Timothy,Patterson,Brazil,Male,61,Less than a month,Basketball,Less than 1 hour,Weekly,492,94,Daily,664,209,16084,11371,22158
+751376,Jodi,Steele,Brazil,Male,68,1-3 months,Cricket,2 - 4 hours,Occasionally,324,79,Monthly,589,798,72866,2758,19606
+680913,Leslie,Taylor,Mexico,Male,51,3-6 months,Basketball,1 - 2 hours,Weekly,6246,670,Weekly,163,44,60808,629,40919
+431098,Carrie,Garcia,Mexico,Male,48,More than a year,Football,1 - 2 hours,Monthly,119280,99,Monthly,688,401,7569,5351,114371
+423643,Patrick,Graham,Brazil,Male,69,3-6 months,Cricket,4 - 6 hours,Monthly,9563,38,Weekly,681,70,187353,9045,154568
+892801,Brittney,Hartman,India,Male,24,Less than a month,Cricket,Less than 1 hour,Occasionally,435,67,Monthly,1764,175,29714,28333,22324
+683275,James,Patton,Argentina,Female,48,Less than a month,Basketball,Less than 1 hour,Daily,14823,768,Weekly,259,66,4086,2889,30237
+942729,Casey,Figueroa,India,Male,22,1-3 months,Virtual Games,4 - 6 hours,Occasionally,13763,92,Monthly,254,199,37012,4127,56695
+276830,Andre,Haley,Brazil,Male,58,More than a year,Cricket,1 - 2 hours,Weekly,697,94,Rarely/Never,486,176,52755,25604,50184
+569383,Warren,Ramos,Brazil,Female,65,1-3 months,Basketball,Less than 1 hour,Daily,12903,65,Monthly,341,219,36671,14295,63389
+846713,Micheal,Choi,Mexico,Female,35,Less than a month,Baseball,Less than 1 hour,Daily,75725,93,Rarely/Never,725,140,1169,826,10421
+861584,Bonnie,Hamilton,India,Female,22,6-12 months,Football,1 - 2 hours,Daily,24027,62,Daily,521,589,43161,20940,62266
+680976,Kristen,Hancock,Mexico,Female,70,6-12 months,Cricket,1 - 2 hours,Weekly,9448,49,Weekly,421,178,8479,5994,27552
+158607,James,Bell,India,Female,53,1-3 months,Basketball,2 - 4 hours,Daily,10067,77,Monthly,300,26,10369,7331,31239
+210092,Christopher,Frye,Argentina,Female,40,3-6 months,Cricket,1 - 2 hours,Weekly,1443,97,Weekly,490,157,25770,16007,35808
+536193,Joseph,Turner,Argentina,Male,62,Less than a month,Cricket,2 - 4 hours,Daily,10858,118,Monthly,606,76,33827,23540,75909
+527891,Ashley,Gross,Argentina,Female,26,More than a year,Basketball,More than 6 hours,Monthly,425,78,Monthly,344,362,24424,17267,25392
+177850,Priscilla,Stone,India,Male,37,1-3 months,Cricket,1 - 2 hours,Monthly,58471,78,Rarely/Never,618,248,30757,9406,119571
+622080,Timothy,Scott,Brazil,Female,32,1-3 months,Cricket,4 - 6 hours,Occasionally,5420,89,Rarely/Never,195,165,34325,19077,12841
+813365,Thomas,Roberts,India,Female,62,Less than a month,Cricket,2 - 4 hours,Daily,7193,12,Monthly,470,316,33244,16610,53042
+897877,Lance,Wood,Mexico,Female,19,More than a year,Football,More than 6 hours,Monthly,148535,30,Daily,795,371,26872,11801,175134
+308128,Jonathan,Gonzalez,Argentina,Male,26,3-6 months,Cricket,2 - 4 hours,Daily,538,92,Rarely/Never,657,85,5575,3941,8787
+324009,Ronald,Savage,Brazil,Female,33,1-3 months,Basketball,1 - 2 hours,Monthly,46930,115,Monthly,88,8,41828,20011,44746
+215259,Diane,Hunter,Mexico,Male,69,More than a year,Basketball,2 - 4 hours,Monthly,17254,100,Monthly,462,424,41141,6102,67500
+650308,Danielle,Torres,Mexico,Male,61,Less than a month,Football,More than 6 hours,Daily,2441,78,Weekly,500,82,45164,31930,14948
+301486,Gabriel,Shepard,Mexico,Female,59,3-6 months,Other,1 - 2 hours,Daily,88341,100,Monthly,294,16,5886,2153,79891
+960005,Randy,Acosta,Brazil,Male,28,3-6 months,Virtual Games,1 - 2 hours,Weekly,6335,752,Weekly,582,157,3190,2255,14957
+749443,Julie,Lawrence,Mexico,Female,55,Less than a month,Basketball,2 - 4 hours,Occasionally,14168,114,Daily,214,251,16436,11620,46562
+794727,Lisa,Sims,Brazil,Female,37,3-6 months,Cricket,4 - 6 hours,Weekly,27597,61,Monthly,218,18,24814,6775,71655
+154815,Ian,Sanders,India,Female,37,Less than a month,Basketball,4 - 6 hours,Weekly,30870,88,Monthly,498,214,35517,14845,7452
+730974,Shannon,Myers,Argentina,Male,53,1-3 months,Cricket,2 - 4 hours,Weekly,30784,79,Weekly,730,178,71144,2843,111925
+577363,Tracy,Miller,India,Male,26,Less than a month,Baseball,1 - 2 hours,Occasionally,7678,129,Daily,450,473,48667,6775,58456
+664084,Charlene,Russell,Mexico,Male,61,Less than a month,Cricket,More than 6 hours,Weekly,59493,92,Daily,443,282,24187,3319,144945
+472671,Kendra,Raymond,Brazil,Female,34,More than a year,Basketball,1 - 2 hours,Daily,3294,64,Daily,391,200,92004,24017,119926
+564958,Jill,Aguirre,Brazil,Female,66,More than a year,Avitaor,2 - 4 hours,Monthly,23930,58,Weekly,463,209,25871,18943,76519
+116305,Alicia,Thompson,Brazil,Male,46,1-3 months,Cricket,Not using per day.,Daily,21369,77,Monthly,753,380,61363,32121,61073
+970451,Raymond,Smith,Argentina,Female,34,1-3 months,Cricket,Less than 1 hour,Monthly,3455,20,Weekly,133,228,146434,301,52928
+895148,Justin,Charles,Brazil,Female,22,More than a year,Football,4 - 6 hours,Monthly,4565,35,Weekly,574,346,24822,9211,4120
+702151,Lori,Valencia,India,Male,56,1-3 months,Football,Less than 1 hour,Daily,10040,443,Rarely/Never,555,82,21441,8230,41078
+778843,Tyler,Olson,Argentina,Male,52,More than a year,Virtual Games,4 - 6 hours,Weekly,19338,98,Daily,662,121,62462,9128,63983
+870236,James,Silva,India,Female,25,3-6 months,Basketball,2 - 4 hours,Monthly,19269,484,Weekly,172,261,23127,16350,64415
+133277,Ian,Edwards,Brazil,Male,59,1-3 months,Football,Less than 1 hour,Daily,19333,52,Monthly,428,583,18578,13134,58110
+444436,Caitlin,Perry,Brazil,Male,19,3-6 months,Football,Less than 1 hour,Monthly,3857,92,Daily,402,5,57222,18892,24265
+756558,Laura,Nixon,Mexico,Female,40,1-3 months,Virtual Games,2 - 4 hours,Daily,78544,31,Daily,621,136,11990,8477,164303
+495096,Paige,Franklin,India,Female,69,1-3 months,Cricket,1 - 2 hours,Occasionally,5771,63,Weekly,158,322,48841,9884,58018
+392248,Sandra,Bruce,Brazil,Female,47,3-6 months,Football,Less than 1 hour,Monthly,18949,69,Monthly,289,471,191870,26902,221831
+397313,Jason,Vaughn,Brazil,Female,30,1-3 months,Cricket,More than 6 hours,Daily,14189,16,Weekly,293,14,18107,6817,10495
+904499,Stephanie,Robertson,Argentina,Male,23,1-3 months,Cricket,2 - 4 hours,Occasionally,8,50,Weekly,314,125,8793,6216,306
+844002,Jessica,Manning,Brazil,Male,54,1-3 months,Cricket,2 - 4 hours,Occasionally,25194,157,Monthly,2451,310,26198,18521,57687
+997777,Jeremy,Price,Argentina,Male,54,1-3 months,Basketball,Less than 1 hour,Monthly,678,102,Weekly,197,91,15877,11225,22452
+251715,William,Oliver,Brazil,Male,37,1-3 months,Cricket,1 - 2 hours,Weekly,24981,64,Rarely/Never,402,140,58246,3604,43542
+987211,Kelly,Williamson,Mexico,Male,59,1-3 months,Cricket,More than 6 hours,Monthly,19889,46,Rarely/Never,468,238,111171,35329,152749
+915325,Bradley,Padilla,Brazil,Female,45,3-6 months,Cricket,More than 6 hours,Occasionally,9274,14,Weekly,539,301,19330,4253,34787
+840462,Leslie,Schneider,Argentina,Male,46,6-12 months,Cricket,4 - 6 hours,Monthly,1826,52,Daily,442,9,27736,6874,31564
+842002,Katherine,Beard,India,Male,45,Less than a month,Cricket,2 - 4 hours,Daily,45664,62,Daily,137,74,47556,36551,69153
+953153,Jo,Cameron,Argentina,Female,48,6-12 months,Cricket,2 - 4 hours,Occasionally,17323,120,Monthly,477,386,11152,7884,44324
+771539,Melissa,Conley,India,Female,35,Less than a month,Football,Less than 1 hour,Monthly,2206,76,Monthly,464,89,72263,23114,78471
+268240,Jennifer,Jenkins,Brazil,Female,44,More than a year,Basketball,Less than 1 hour,Weekly,67993,71,Rarely/Never,2070,131,49973,28764,86411
+199050,Ashley,Evans,India,Female,35,More than a year,Cricket,Less than 1 hour,Daily,26865,93,Monthly,524,60,75420,11268,28488
+952125,Kristy,Berg,Brazil,Female,38,3-6 months,Cricket,4 - 6 hours,Monthly,2767,76,Weekly,232,380,2116,1496,7552
+396201,David,Harris,India,Female,63,3-6 months,Baseball,1 - 2 hours,Daily,2812,87,Monthly,388,32,19164,13548,33105
+276994,Diane,Lane,Mexico,Female,26,More than a year,Football,2 - 4 hours,Weekly,79269,51,Daily,435,95,61509,1569,142990
+905605,Lauren,Kelley,Mexico,Female,41,1-3 months,Cricket,Less than 1 hour,Daily,15009,121,Daily,534,391,33280,2208,54087
+681648,Melissa,Montoya,India,Female,26,1-3 months,Cricket,4 - 6 hours,Monthly,18087,45,Daily,505,78,24233,7378,26702
+207823,Shannon,Blanchard,Argentina,Female,30,Less than a month,Cricket,1 - 2 hours,Monthly,20458,93,Weekly,602,502,67560,151,70399
+752570,Kathryn,Schmidt,India,Male,67,More than a year,Cricket,1 - 2 hours,Monthly,6101,106,Weekly,675,113,2225,1573,13211
+478244,Karen,Alexander,Mexico,Female,42,6-12 months,Cricket,4 - 6 hours,Weekly,4618,91,Weekly,599,220,49032,15906,50845
+370514,Michael,Hurst,Argentina,Male,27,Less than a month,Basketball,2 - 4 hours,Daily,142253,24,Daily,809,202,30604,17301,88689
+210776,Angela,Cooper,Mexico,Male,54,3-6 months,Virtual Games,4 - 6 hours,Weekly,14001,80,Weekly,662,204,10186,6235,36679
+216703,Kenneth,Valdez,India,Male,28,3-6 months,Cricket,4 - 6 hours,Daily,101038,33,Daily,254,12,23085,16320,86540
+159635,Megan,Gonzalez,India,Female,19,3-6 months,Virtual Games,Less than 1 hour,Occasionally,72623,76,Daily,210,124,112771,8971,220446
+816575,Lisa,Pierce,Argentina,Female,62,More than a year,Cricket,1 - 2 hours,Occasionally,5289,33,Monthly,344,555,45285,7498,55682
+962290,Robert,Walker,Argentina,Male,52,3-6 months,Basketball,1 - 2 hours,Occasionally,3253,104,Monthly,639,144,57414,36280,79479
+514533,Nicholas,Mccormick,India,Female,26,3-6 months,Cricket,1 - 2 hours,Monthly,6902,110,Monthly,638,182,13338,9430,30197
+493474,Erica,Clarke,Mexico,Female,65,1-3 months,Cricket,4 - 6 hours,Occasionally,82288,111,Daily,398,287,16407,5842,9176
+799861,Jason,Butler,Argentina,Female,27,Less than a month,Cricket,1 - 2 hours,Daily,27359,109,Daily,358,190,27512,19450,80981
+514767,Karen,Bell,India,Female,36,Less than a month,Cricket,2 - 4 hours,Occasionally,2251,93,Daily,521,23,49176,4337,47080
+233049,Carrie,Ramirez,India,Female,29,3-6 months,Ladie badminton ,2 - 4 hours,Occasionally,3410,87,Rarely/Never,350,523,50245,36248,75408
+887248,Joshua,Williams,Mexico,Male,41,Less than a month,Football,2 - 4 hours,Weekly,3850,81,Weekly,267,363,27625,3483,35024
+867139,William,Vazquez,Brazil,Female,43,1-3 months,Basketball,4 - 6 hours,Weekly,11363,118,Monthly,719,313,42068,10350,18043
+381462,Rhonda,Hansen,Brazil,Female,69,1-3 months,Cricket,2 - 4 hours,Daily,22339,70,Weekly,212,232,49087,20851,1316
+884060,Sarah,Camacho,India,Female,56,1-3 months,Other,1 - 2 hours,Weekly,46440,23,Weekly,425,391,34787,1391,75802
+194756,Lauren,Wolf,India,Male,62,3-6 months,Cricket,Less than 1 hour,Monthly,10205,99,Monthly,273,193,60789,29260,13150
+319007,Brenda,Jones,Brazil,Male,54,1-3 months,Virtual Games,2 - 4 hours,Daily,64196,60,Daily,543,136,54693,4864,39892
+479631,Michael,Hess,Brazil,Female,42,1-3 months,Cricket,4 - 6 hours,Daily,22893,105,Weekly,109,41,61623,24126,89122
+474395,Ann,Morris,Brazil,Male,43,1-3 months,Cricket,2 - 4 hours,Weekly,18564,25,Monthly,523,311,44371,15451,80050
+152087,Michael,Cooper,Argentina,Female,45,1-3 months,Cricket,Less than 1 hour,Occasionally,754,112,Weekly,240,293,24411,11593,29385
+658904,Michael,Acevedo,Argentina,Female,22,1-3 months,Basketball,1 - 2 hours,Weekly,7062,65,Daily,800,301,49795,25455,77942
+195044,Lisa,Campbell,Brazil,Female,35,3-6 months,Basketball,2 - 4 hours,Daily,9841,5,Daily,646,77,56079,32108,37689
+683785,Sarah,Nguyen,Argentina,Female,69,More than a year,Basketball,2 - 4 hours,Weekly,3012,67,Daily,577,200,45288,25850,62645
+685209,William,Rodriguez,Brazil,Female,46,1-3 months,Cricket,1 - 2 hours,Daily,10223,100,Monthly,814,543,43916,8670,60301
+539495,John,Brown,Mexico,Male,18,1-3 months,Football,1 - 2 hours,Weekly,20590,61,Daily,617,121,57483,25443,123327
+148049,Thomas,Davis,Brazil,Female,46,More than a year,Cricket,2 - 4 hours,Weekly,89382,100,Weekly,560,184,24115,17049,122980
+954290,Leslie,Brown,Argentina,Female,45,1-3 months,Cricket,2 - 4 hours,Daily,11394,2,Daily,733,115,57761,5663,17455
+865032,Sean,Holloway,Mexico,Female,25,More than a year,Basketball,1 - 2 hours,Weekly,11381,81,Monthly,642,133,28582,18799,39659
+154837,Anthony,Cruz,Mexico,Male,43,More than a year,Football,Less than 1 hour,Daily,17807,120,Rarely/Never,208,138,2672,1889,33172
+237940,Henry,Reyes,Argentina,Female,62,More than a year,Cards,4 - 6 hours,Monthly,5788,107,Weekly,296,289,61607,20319,79131
+264799,James,Gonzales,Brazil,Male,51,Less than a month,Football,1 - 2 hours,Daily,4577,100,Weekly,263,229,62424,7548,7062
+653511,Adam,Parker,India,Male,38,1-3 months,Cricket,Less than 1 hour,Monthly,469,72,Monthly,435,386,36158,32357,25865
+143028,Julie,Schneider,India,Male,65,6-12 months,Basketball,4 - 6 hours,Monthly,10326,71,Weekly,457,436,38352,9176,56295
+551125,Michael,Brewer,Mexico,Female,29,Less than a month,Football,2 - 4 hours,Occasionally,13373,100,Rarely/Never,266,56,57401,2790,85612
+411768,Timothy,Garcia,India,Female,18,More than a year,Cricket,Less than 1 hour,Daily,81,89,Weekly,37,463,20148,440,5522
+718271,David,Thomas,Brazil,Male,35,1-3 months,Ladie badminton ,2 - 4 hours,No,13775,76,Weekly,537,224,594849,24231,120795
+531844,Jeffrey,Morgan,India,Female,50,3-6 months,Cricket,2 - 4 hours,Weekly,78920,116,Monthly,410,176,38693,10680,129512
+478857,Mary,Frazier,Brazil,Male,65,3-6 months,Virtual Games,More than 6 hours,Daily,61208,643,Monthly,659,330,6900,3355,90981
+577524,Paige,Ruiz,Argentina,Male,68,3-6 months,Cricket,1 - 2 hours,Weekly,8773,83,Weekly,260,118,13654,9653,33731
+589247,Amanda,Dyer,Mexico,Male,26,3-6 months,Kabaddi,1 - 2 hours,Monthly,13316,91,Monthly,246,296,58845,26662,104505
+815016,Joseph,Zimmerman,India,Female,60,1-3 months,Table Tennis,Less than 1 hour,Daily,12815,88,Rarely/Never,3639,97,62270,14706,96571
+336260,Michael,Pena,India,Male,57,3-6 months,Other,2 - 4 hours,Daily,7332,55,Weekly,30,99,5689,4022,20126
+406809,Kimberly,Rios,India,Male,22,Less than a month,Cricket,1 - 2 hours,Daily,24719,55,Monthly,139,489,105598,74655,87074
+799816,Wayne,Bolton,Mexico,Male,64,3-6 months,Football,4 - 6 hours,Weekly,14359,108,Rarely/Never,777,402,41777,31272,84027
+186188,Kevin,Lucas,Brazil,Male,32,1-3 months,Cricket,2 - 4 hours,Weekly,60114,50,Weekly,62,943,51488,37905,3275
+306589,Melissa,Clark,Brazil,Male,24,Less than a month,Cricket,More than 6 hours,Daily,105984,105,Monthly,17742,40,8356,5907,46166
+782476,Aaron,Christensen,Argentina,Female,56,6-12 months,Cricket,1 - 2 hours,Occasionally,4161,53,Weekly,164,129,52959,28229,24958
+525423,John,Allen,Mexico,Female,30,1-3 months,Cricket,2 - 4 hours,Daily,160,89,Weekly,456,1,55256,24267,10907
+356156,Christopher,Cordova,India,Female,58,3-6 months,Virtual Games,4 - 6 hours,Daily,64839,49,Daily,370,211,27549,2499,94127
+762372,Corey,Skinner,India,Male,37,3-6 months,Cricket,4 - 6 hours,Daily,66186,89,Monthly,2803,115,52392,7529,151387
+294587,Philip,Marshall,Argentina,Female,33,Less than a month,Cricket,Less than 1 hour,Occasionally,2670,75,Monthly,819,236,42049,28447,24587
+177768,Tara,Carlson,Brazil,Male,22,1-3 months,Football,2 - 4 hours,Monthly,10131,76,Monthly,240,118,37052,18311,37933
+690593,Angela,Davis,Brazil,Male,53,Less than a month,Baseball,2 - 4 hours,Occasionally,116911,63,Weekly,3160,709,25675,13405,40290
+807844,Megan,Rodriguez,Brazil,Female,64,1-3 months,Other,4 - 6 hours,Daily,15127,82,Monthly,262,15,8433,5962,36866
+458697,Donald,Graham,India,Male,27,Less than a month,Ladie badminton ,2 - 4 hours,Weekly,1090,91,Rarely/Never,335,147,18624,13167,27224
+707235,Kimberly,Wallace,India,Female,40,1-3 months,Virtual Games,1 - 2 hours,Weekly,71686,89,Weekly,317,123,55441,38051,48096
+247529,Richard,Myers,Brazil,Male,35,1-3 months,Basketball,1 - 2 hours,Weekly,10625,105,Weekly,361,146,15910,11248,39969
+783753,Scott,Garcia,Argentina,Female,45,3-6 months,Basketball,2 - 4 hours,Weekly,12118,62,Monthly,791,323,46876,10982,67783
+111588,Sarah,Gilmore,Argentina,Male,29,3-6 months,Cricket,Less than 1 hour,Daily,4514,130,Rarely/Never,578,113,52066,3302,55294
+592960,John,Ortega,Argentina,Male,63,More than a year,Ladie badminton ,More than 6 hours,Daily,14476,120,Monthly,475,226,6161,4356,32589
+560201,Jennifer,Fox,Brazil,Female,36,3-6 months,Cricket,1 - 2 hours,Daily,17197,58,Weekly,818,88,32208,18068,69910
+554708,Jacqueline,Rodriguez,Mexico,Female,26,Less than a month,Football,1 - 2 hours,Occasionally,1991,118,Rarely/Never,707,260,36151,18144,18758
+810197,Andrew,Wright,Mexico,Female,34,Less than a month,Football,2 - 4 hours,Monthly,477,32,Weekly,139,30,153467,34830,11692
+169850,Michaela,Garcia,Argentina,Female,49,More than a year,Football,2 - 4 hours,Weekly,60556,27,Rarely/Never,193,79,56725,16983,42052
+507577,Cynthia,Flowers,Brazil,Female,33,6-12 months,Cricket,4 - 6 hours,Weekly,8533,66,Monthly,227,262,14434,2125,27763
+761088,Cathy,Davis,Brazil,Male,28,Less than a month,Football,Less than 1 hour,Daily,3364,99,Weekly,422,518,86907,10892,88235
+629130,Dawn,Brandt,Argentina,Female,65,1-3 months,Football,More than 6 hours,Weekly,11261,86,Weekly,110,255,41383,23085,82471
+784889,Jason,Jones,Mexico,Male,34,3-6 months,Football,2 - 4 hours,Occasionally,22243,34,Monthly,98,197,34247,7591,71276
+361178,Alicia,Ashley,Mexico,Male,41,Less than a month,Cricket,More than 6 hours,Daily,35812,21,Monthly,206,214,31976,22606,114546
+910997,Christopher,Ray,Brazil,Male,24,1-3 months,Cricket,Less than 1 hour,Daily,20599,91,Daily,689,164,72173,15737,72988
+337875,Nathaniel,Bates,Mexico,Male,36,1-3 months,Cricket,1 - 2 hours,Monthly,5752,39,Weekly,546,27,52591,3231,59365
+445649,Gina,Rice,Brazil,Male,27,Less than a month,Basketball,1 - 2 hours,Occasionally,20585,633,Weekly,598,378,38177,23334,84782
+115726,Morgan,Mcguire,India,Male,69,3-6 months,Cricket,2 - 4 hours,Monthly,36771,25,Monthly,78,74,49977,24141,121920
+260618,Javier,Melton,Brazil,Female,22,Less than a month,Basketball,4 - 6 hours,Daily,91956,82,Monthly,3215,172,7448,5266,127635
+803780,Kayla,Mullins,Mexico,Male,42,1-3 months,Basketball,1 - 2 hours,Occasionally,100642,118,Monthly,440,185,15985,884,144023
+971374,David,Curry,Brazil,Male,50,3-6 months,Cricket,1 - 2 hours,Occasionally,22538,77,Weekly,196,19,50532,10872,78747
+272580,Nicole,Knapp,Argentina,Female,47,More than a year,Basketball,2 - 4 hours,Monthly,1164,35,Weekly,818,383,68276,9313,31205
+885299,Michelle,Noble,Brazil,Male,31,More than a year,Basketball,2 - 4 hours,Occasionally,131244,60,Monthly,503,125,53812,36417,25069
+460372,Julie,Beck,Argentina,Female,62,1-3 months,Basketball,Less than 1 hour,Weekly,8525,71,Daily,463,39,43572,10078,66082
+293661,Warren,Ewing,India,Male,64,3-6 months,Football,2 - 4 hours,Occasionally,123923,105,Monthly,66,465,29204,23325,166283
+710031,Leslie,Fisher,India,Female,55,3-6 months,Football,1 - 2 hours,Weekly,17746,87,Monthly,736,249,52151,36869,37049
+677576,Jonathan,Mcdowell,Argentina,Female,66,1-3 months,Virtual Games,2 - 4 hours,Daily,2131,47,Monthly,680,370,3012,2129,7764
+305733,Jose,Martinez,Brazil,Male,64,More than a year,Basketball,2 - 4 hours,Daily,95212,45,Monthly,534,266,95862,12024,246308
+582560,Katrina,Faulkner,Mexico,Female,24,1-3 months,Basketball,4 - 6 hours,Daily,9887,100,Weekly,392,146,21816,4471,38032
+151222,Caitlin,Jones,Mexico,Male,63,More than a year,Cricket,4 - 6 hours,Occasionally,21130,51,Monthly,569,93,15283,10805,56433
+518356,William,Boone,Brazil,Male,54,3-6 months,Football,2 - 4 hours,Daily,1709,76,Monthly,664,199,37618,26595,21667
+454339,Lindsay,Luna,India,Male,70,6-12 months,Baseball,More than 6 hours,Daily,23867,100,Monthly,630,227,6101,4313,48012
+814813,Amber,Rogers,India,Male,31,3-6 months,Football,4 - 6 hours,Weekly,39641,74,Daily,391,348,56844,23884,24210
+551570,Lauren,Kennedy,Brazil,Male,69,6-12 months,Cricket,1 - 2 hours,Monthly,4985,76,Daily,483,372,31383,128,15575
+352041,Austin,Bullock,Mexico,Female,52,3-6 months,Cricket,2 - 4 hours,Weekly,21764,61,Rarely/Never,732,450,29141,5660,40502
+439112,Sarah,Rodriguez,Mexico,Female,28,More than a year,Virtual Games,1 - 2 hours,Daily,3226,37,Monthly,548,37,59410,29623,70004
+182600,Keith,Vasquez,Argentina,Male,61,Less than a month,Cricket,2 - 4 hours,Monthly,9744,66,Daily,625,53,36442,4317,48047
+765992,Krista,White,India,Male,61,Less than a month,Virtual Games,1 - 2 hours,Weekly,12402,32,Monthly,651,166,5059,3577,27611
+579353,Christina,Rogers,Mexico,Male,38,1-3 months,Virtual Games,1 - 2 hours,Monthly,20976,48,Monthly,694,161,15797,11168,3364
+171372,Keith,Johnston,Argentina,Female,35,More than a year,Football,4 - 6 hours,Weekly,122812,113,Monthly,585,13,31464,9975,118972
+430132,Perry,Malone,Mexico,Female,45,1-3 months,Basketball,4 - 6 hours,Daily,1464,73,Monthly,534,136,31484,27754,49021
+572680,Linda,Robinson,India,Male,59,More than a year,Cricket,2 - 4 hours,Monthly,63467,15,Rarely/Never,241,5761,55921,42446,186026
+511258,Johnathan,Hayes,Brazil,Male,38,6-12 months,Cricket,2 - 4 hours,Monthly,7659,41,Rarely/Never,646,68,70550,31285,40429
+648742,Megan,Barr,India,Male,64,3-6 months,Cricket,1 - 2 hours,No,902,78,Monthly,3,111,68378,30953,24618
+697881,Jessica,Townsend,India,Male,62,6-12 months,Cricket,2 - 4 hours,Daily,7608,50,Monthly,376,509,41423,18819,62304
+967893,Alexander,Davis,India,Male,42,6-12 months,Basketball,Not using per day.,Weekly,21460,96,Weekly,579,115,57612,20513,99944
+836789,James,Greene,India,Female,55,3-6 months,Football,Less than 1 hour,Daily,13734,102,Monthly,465,430,35205,25028,72413
+138992,Edward,Hodge,Brazil,Male,64,1-3 months,Cricket,1 - 2 hours,Monthly,99487,8,Weekly,368,10,15690,6384,49393
+189080,Joseph,Anderson,Brazil,Male,38,6-12 months,Basketball,Less than 1 hour,Weekly,22355,694,Rarely/Never,401,181,21401,2354,56530
+351255,Shane,Snyder,Mexico,Female,26,6-12 months,Avitaor,2 - 4 hours,No,14965,39,Weekly,317,534,46195,27661,85694
+702648,Michelle,Hoover,India,Male,55,1-3 months,Football,4 - 6 hours,Occasionally,8185,39,Rarely/Never,287,400,61083,33939,96214
+425037,Shannon,Skinner,India,Male,69,6-12 months,Football,2 - 4 hours,Monthly,23512,105,Weekly,165,203,19930,14090,66916
+494180,Theresa,Cook,Argentina,Female,38,Less than a month,Cricket,2 - 4 hours,Daily,14851,19,Weekly,12,275,49809,10739,83584
+124655,Nancy,Jones,Mexico,Female,41,1-3 months,Cricket,4 - 6 hours,Occasionally,8362,121,Daily,524,128,80942,1634,60749
+964992,Thomas,Johnston,Mexico,Female,53,3-6 months,Cricket,4 - 6 hours,Daily,39524,63,Rarely/Never,754,159,64717,33415,146294
+888654,Cynthia,Mason,Argentina,Male,65,Less than a month,Cricket,1 - 2 hours,Monthly,13286,54,Daily,372,439,55462,11644,68623
+932058,Antonio,Moore,Argentina,Female,34,3-6 months,Football,4 - 6 hours,Occasionally,22549,99,Weekly,297,325,59249,19266,102065
+691705,Gail,English,Brazil,Male,41,1-3 months,Other,2 - 4 hours,Daily,8835,98,Weekly,377,471,51119,8709,63988
+438396,Barbara,Smith,Argentina,Male,35,1-3 months,Football,1 - 2 hours,Daily,20315,106,Monthly,424,164,44341,24029,50558
+759545,Courtney,Dunlap,Argentina,Male,31,6-12 months,Cricket,More than 6 hours,Monthly,14036,88,Daily,626,516,1773,1253,25677
+696268,Cindy,Bridges,Argentina,Female,67,3-6 months,Virtual Games,2 - 4 hours,Daily,6471,11,Daily,579,171,26002,18383,54522
+204047,Richard,Martinez,Mexico,Male,23,6-12 months,Cricket,2 - 4 hours,Weekly,15893,16,Monthly,343,180,26522,25189,68942
+274922,Shawn,Smith,Brazil,Male,25,More than a year,Virtual Games,1 - 2 hours,Occasionally,6131,110,Daily,46,228,27579,6519,35785
+840887,Anthony,Flores,Brazil,Female,69,More than a year,Avitaor,Less than 1 hour,Occasionally,6648,385,Monthly,655,283,24406,19505,53094
+447373,Calvin,Tran,India,Female,55,6-12 months,Cricket,More than 6 hours,Monthly,49369,76,Daily,173,76,10558,7464,95832
+767398,Russell,Reed,Brazil,Female,51,1-3 months,Cricket,2 - 4 hours,Monthly,2646,100,Monthly,11,460,70845,31680,89022
+949909,Ashley,Rodriguez,Brazil,Male,49,Less than a month,Cricket,1 - 2 hours,Monthly,120517,101,Monthly,890,204,9845,6960,79483
+925011,Shannon,Blake,Brazil,Female,65,3-6 months,Football,1 - 2 hours,Monthly,2787,76,Weekly,464,380,56917,7440,25248
+994647,Ryan,Gonzalez,Mexico,Male,44,Less than a month,Cricket,4 - 6 hours,No,19035,50,Daily,809,417,2909,2057,35534
+170693,Kathleen,Fuentes,Mexico,Female,24,Less than a month,Cricket,4 - 6 hours,Weekly,7039,65,Rarely/Never,698,29,90304,10495,97113
+900082,Deanna,Rice,Mexico,Male,45,3-6 months,Basketball,More than 6 hours,No,4244,47,Monthly,434,94,64268,4919,20348
+173851,Cassandra,Small,Brazil,Female,51,More than a year,Football,2 - 4 hours,Weekly,89208,58,Weekly,775,152,131267,37147,109438
+960065,Julie,Moore,Argentina,Female,31,1-3 months,Football,1 - 2 hours,Occasionally,11492,124,Monthly,882,334,33845,15637,71881
+272666,Katherine,Walker,Mexico,Male,34,6-12 months,Football,More than 6 hours,No,12513,22,Weekly,714,211,12181,11454,40178
+853217,Anna,Garrett,Mexico,Female,57,More than a year,Basketball,Less than 1 hour,Daily,6995,24,Weekly,316,240,57487,51647,20062
+132680,Kristen,Ortega,Argentina,Female,45,3-6 months,Virtual Games,1 - 2 hours,Occasionally,11820,24,Weekly,716,487,51013,584,74462
+382775,Kyle,Hays,Mexico,Female,60,1-3 months,Basketball,More than 6 hours,Occasionally,11317,5,Weekly,611,203,42328,17064,2071
+798783,Paul,Gilbert,Mexico,Female,31,Less than a month,Football,2 - 4 hours,Weekly,31086,91,Monthly,304,375,51593,13164,104803
+110957,Arthur,Walker,Argentina,Female,25,Less than a month,Football,4 - 6 hours,Daily,17085,92,Monthly,436,394,31935,22111,72838
+863206,Donald,Gilmore,India,Female,59,1-3 months,Virtual Games,4 - 6 hours,Occasionally,73587,465,Monthly,640,115,55694,36737,153078
+647012,Kari,Garcia,India,Male,61,3-6 months,Football,Less than 1 hour,Daily,6925,52,Daily,862,485,63901,5959,73470
+915883,Shannon,Brooks,Argentina,Female,19,3-6 months,Cricket,1 - 2 hours,No,115378,98,Weekly,617,551,18779,10194,101584
+154881,Cameron,Smith,India,Male,41,1-3 months,Basketball,2 - 4 hours,No,82806,113,Rarely/Never,86,70,53663,8668,156357
+804906,Jamie,Anthony,India,Male,30,1-3 months,Baseball,Less than 1 hour,Monthly,3266,6,Weekly,364,227,40887,1016,15010
+565814,Cassandra,Baker,Brazil,Female,65,6-12 months,Football,4 - 6 hours,Daily,23515,80,Daily,570,15,32819,23334,85196
+572152,Jennifer,Duncan,Brazil,Female,60,Less than a month,Virtual Games,4 - 6 hours,Daily,16100,56,Weekly,136,9,53664,24278,3639
+354519,Denise,Conrad,Brazil,Male,64,More than a year,Cricket,1 - 2 hours,Daily,6599,68,Monthly,626,34,22617,8308,38342
+986235,Crystal,Mcneil,Mexico,Female,40,1-3 months,Cricket,1 - 2 hours,Daily,36752,93,Weekly,282,340,27714,19593,74510
+992085,Edward,Ford,Argentina,Female,59,More than a year,Cricket,1 - 2 hours,Monthly,6246,89,Weekly,617,434,77934,27245,51042
+376968,Jillian,Jackson,India,Male,43,1-3 months,Baseball,1 - 2 hours,Daily,17477,21,Weekly,825,282,7575,5355,39537
+332943,Amy,Morris,Brazil,Female,39,6-12 months,Kabaddi,1 - 2 hours,Monthly,18464,96,Monthly,173,172,44276,25511,39740
+810717,Jerome,Bradley,India,Female,25,6-12 months,Cricket,4 - 6 hours,Daily,13840,73,Weekly,320,126,85584,22998,123460
+612562,Kimberly,Kim,Brazil,Male,30,More than a year,Cricket,Less than 1 hour,Weekly,56719,117,Monthly,517,40,96371,13621,81207
+467643,Jared,Stevenson,Mexico,Female,31,More than a year,Other,More than 6 hours,Weekly,744,110,Weekly,555,52,43615,38490,62686
+900005,Sarah,Day,Mexico,Female,27,Less than a month,Football,4 - 6 hours,Daily,17661,81,Rarely/Never,502,34,16721,13904,33696
+597943,Christopher,Robertson,Argentina,Female,18,More than a year,Cricket,1 - 2 hours,Monthly,35105,87,Weekly,740,4513,25010,3128,4518
+367468,Angela,Ramos,India,Female,31,3-6 months,Cards,Less than 1 hour,Weekly,2688,80,Monthly,688,427,25184,17804,40470
+359313,Sean,Jones,Mexico,Female,41,1-3 months,Cricket,4 - 6 hours,Daily,5304,99,Weekly,559,31,68066,18311,90726
+420552,Karen,Poole,Argentina,Male,38,Less than a month,Football,Less than 1 hour,Daily,15189,62,Monthly,235,144,39325,5707,62264
+897184,Darrell,Davis,Mexico,Male,53,1-3 months,Baseball,4 - 6 hours,Monthly,5137,109,Monthly,481,131,89172,5235,86570
+268209,Dorothy,King,Mexico,Male,51,Less than a month,Football,1 - 2 hours,Monthly,3147,826,Daily,725,318,5850,4136,13442
+735657,Ryan,Phillips,Mexico,Male,19,3-6 months,Cricket,2 - 4 hours,Daily,58913,94,Daily,589,36,46619,5456,98745
+200619,Adam,Mayo,Argentina,Female,22,3-6 months,Virtual Games,Less than 1 hour,Daily,5014,90,Daily,863,215,43918,13272,58172
+474462,Amber,French,Argentina,Male,26,3-6 months,Cricket,More than 6 hours,Monthly,15594,72,Monthly,221,60,29253,26629,71892
+823931,Stephanie,Chambers,India,Male,56,1-3 months,Cricket,Less than 1 hour,Monthly,120095,84,Daily,138,112,53651,12191,138918
+368773,Anthony,Stevens,Argentina,Female,23,More than a year,Cricket,4 - 6 hours,Weekly,16883,104,Monthly,531,1701,39635,368,60909
+314912,Samuel,Martin,India,Male,41,1-3 months,Virtual Games,2 - 4 hours,Daily,6002,260,Monthly,792,93,38709,16777,27448
+756328,Christian,Gordon,Mexico,Female,69,Less than a month,Cricket,1 - 2 hours,Daily,10842,33,Daily,442,75,22910,16197,50194
+679432,Tyler,Rogers,India,Female,19,Less than a month,Cricket,Less than 1 hour,Monthly,7898,83,Rarely/Never,775,35,2075,1467,15967
+162014,Jennifer,Burton,Argentina,Female,23,1-3 months,Cricket,Less than 1 hour,Occasionally,48235,35,Monthly,347,137,13134,2234,23830
+735194,Robert,Diaz,Argentina,Female,29,6-12 months,Cricket,4 - 6 hours,Weekly,10583,90,Daily,498,152,15335,11647,39755
+420583,Brent,Nelson,Argentina,Male,28,3-6 months,Table Tennis,2 - 4 hours,Monthly,28645,103,Weekly,298,245,59885,8431,88178
+202634,Danielle,Barton,Mexico,Male,55,3-6 months,Cricket,Less than 1 hour,Daily,18537,80,Daily,815,315,5099,3605,37798
+217344,Ashley,Williams,Argentina,Male,49,1-3 months,Cricket,1 - 2 hours,Daily,7610,104,Monthly,544,275,28016,3995,47030
+591998,Tracey,Jackson,India,Male,59,Less than a month,Basketball,Less than 1 hour,Daily,11078,91,Weekly,133,156,166644,31911,47553
+330379,Manuel,Hayes,Brazil,Male,19,1-3 months,Basketball,2 - 4 hours,Monthly,927,772,Daily,239,415,12295,10677,20092
+415693,Tina,Ramos,India,Female,26,More than a year,Virtual Games,2 - 4 hours,Daily,10173,4,Daily,488,5747,27219,14095,31169
+737933,Ernest,Brown,India,Male,56,1-3 months,Football,Less than 1 hour,Occasionally,23555,102,Weekly,436,201,428503,2685,65505
+143952,Erik,Hart,India,Female,24,More than a year,Basketball,2 - 4 hours,Monthly,13152,112,Weekly,265,31,22780,19799,22790
+550150,Diane,Hall,Argentina,Female,41,More than a year,Cricket,2 - 4 hours,Daily,51865,15,Monthly,387,163,77541,36470,119671
+473602,Joshua,Ortiz,India,Female,18,1-3 months,Baseball,1 - 2 hours,Occasionally,17335,37,Weekly,579,8,75266,21647,16557
+791539,Matthew,Brown,Argentina,Female,34,Less than a month,Basketball,More than 6 hours,Weekly,74,18,Weekly,693,162,74276,27699,1020
+216597,Billy,Nguyen,Mexico,Male,49,1-3 months,Ladie badminton ,Less than 1 hour,Monthly,15167,52,Monthly,802,182,32430,14175,63527
+735039,Aaron,Murray,Brazil,Female,65,6-12 months,Baseball,1 - 2 hours,Monthly,12874,36,Rarely/Never,591,65,28553,20186,61502
+827220,Jessica,Wyatt,Brazil,Male,51,6-12 months,Kabaddi,1 - 2 hours,Monthly,6917,109,Monthly,276,336,70759,50025,111795
+617239,Claudia,Smith,Argentina,Male,19,More than a year,Cricket,Less than 1 hour,Weekly,6339,64,Daily,334,394,18906,13366,43398
+307730,Stephanie,Miller,Mexico,Male,19,Less than a month,Football,More than 6 hours,Daily,23223,72,Weekly,782,275,25710,18176,74585
+384334,Johnny,Chapman,Mexico,Female,64,6-12 months,Football,2 - 4 hours,Weekly,9058,82,Rarely/Never,37,152,76340,7327,6300
+180684,Daniel,Williams,Brazil,Male,56,1-3 months,Basketball,2 - 4 hours,Daily,1535,8,Weekly,355,241,87571,25727,9406
+647667,Michael,Williams,Argentina,Male,55,More than a year,Cricket,Less than 1 hour,Monthly,665,14,Daily,648,349,49706,14222,7131
+933817,Lauren,Ford,Argentina,Male,21,1-3 months,Kabaddi,1 - 2 hours,Occasionally,4024,194,Monthly,418,129,30846,27320,55925
+892618,Daniel,Green,India,Female,42,More than a year,Basketball,Less than 1 hour,Daily,4277,119,Monthly,445,251,51337,14337,62341
+539756,Ashley,Harmon,India,Male,45,3-6 months,Cricket,Less than 1 hour,Daily,11885,44,Rarely/Never,153,370,6495,4592,28781
+565879,Ariel,Young,Mexico,Female,29,More than a year,Basketball,2 - 4 hours,Occasionally,8352,1,Weekly,2217,159,50622,15039,6397
+953818,Michelle,Wheeler,Brazil,Female,33,6-12 months,Cards,1 - 2 hours,Weekly,21740,101,Weekly,330,43,60601,4792,108616
+762223,Patrick,Jones,Mexico,Female,62,More than a year,Cricket,More than 6 hours,Daily,8801,43,Weekly,350,285,44703,1664,43408
+711218,Cynthia,Tucker,Brazil,Male,58,3-6 months,Basketball,1 - 2 hours,Daily,8552,56,Rarely/Never,350,572,57500,27793,84547
+449560,Kerry,Suarez,Argentina,Male,24,1-3 months,Basketball,4 - 6 hours,Daily,3670,49,Daily,421,35,40586,10028,49171
+905522,James,Rodriguez,Mexico,Female,60,More than a year,Football,1 - 2 hours,Occasionally,3524,114,Daily,345,336,48237,34102,72623
+327830,David,Young,Argentina,Female,33,3-6 months,Basketball,More than 6 hours,Daily,21661,15,Monthly,558,121,14319,5591,38960
+564284,Richard,Young,India,Female,48,3-6 months,Basketball,1 - 2 hours,Monthly,7353,108,Monthly,676,188,41750,4728,57151
+643385,Sarah,Mcgrath,Argentina,Female,32,More than a year,Cricket,1 - 2 hours,Monthly,21294,57,Weekly,715,104,44493,20868,26463
+949458,Jessica,Townsend,Argentina,Female,18,Less than a month,Basketball,2 - 4 hours,Monthly,13971,111,Weekly,907,176,41597,6262,26354
+421858,Emily,Whitehead,Argentina,Male,39,3-6 months,Cricket,4 - 6 hours,Weekly,10383,90,Monthly,424,12,57930,4794,14997
+863160,Nicholas,Vasquez,Brazil,Male,58,1-3 months,Football,Less than 1 hour,Daily,22992,81,Monthly,783,150,48206,457,78148
+753026,Stephanie,Anderson,India,Female,66,6-12 months,Cricket,2 - 4 hours,Monthly,2164,333,Monthly,291,222,16554,11703,27798
+848969,Matthew,Thompson,Argentina,Female,28,6-12 months,Virtual Games,1 - 2 hours,Daily,44521,91,Weekly,634,123,12472,11439,93263
+954097,Kimberly,Morris,Mexico,Female,32,1-3 months,Virtual Games,2 - 4 hours,Daily,10503,112,Weekly,331,267,188784,28600,100142
+981970,Earl,Villegas,Mexico,Male,44,1-3 months,Basketball,Less than 1 hour,Monthly,97085,317,Monthly,340,58,35501,29603,102859
+684465,Jason,Mccall,Mexico,Male,37,Less than a month,Cricket,Less than 1 hour,Daily,65257,100,Weekly,602,584,33174,31396,124704
+769758,Kevin,Jones,Argentina,Female,18,Less than a month,Cricket,2 - 4 hours,Monthly,12683,104,Rarely/Never,358,406,59066,21676,99010
+391865,Paul,Eaton,Brazil,Male,25,1-3 months,Cricket,Less than 1 hour,Occasionally,97282,90,Monthly,631,23,138453,58699,48174
+144601,Christopher,Gonzalez,Argentina,Female,48,1-3 months,Football,4 - 6 hours,Weekly,405,42,Weekly,731,522,143629,101542,13029
+772833,Douglas,Williams,India,Male,55,1-3 months,Cricket,2 - 4 hours,Daily,19131,96,Monthly,659,331,11585,8190,47920
+923656,Tonya,Richards,Mexico,Female,50,1-3 months,Cricket,More than 6 hours,Daily,10329,85,Daily,129,218,8593,4187,27609
+842215,Elizabeth,Brown,India,Male,48,More than a year,Cricket,4 - 6 hours,Monthly,3497,60,Weekly,553,50,63649,22798,75635
+862013,Anthony,Smith,Mexico,Male,43,Less than a month,Baseball,2 - 4 hours,Daily,9175,55,Daily,594,253,12595,3634,28551
+287546,Joshua,Vega,India,Male,25,Less than a month,Basketball,1 - 2 hours,Daily,3838,56,Monthly,636,8,16142,11412,32311
+538609,Amy,Sandoval,Argentina,Male,52,1-3 months,Basketball,2 - 4 hours,Daily,2067,71,Monthly,27,21,11413,8069,20898
+193640,Donald,Reyes,India,Female,33,Less than a month,Basketball,2 - 4 hours,Daily,9137,42,Monthly,226,558,13343,9433,33894
+588423,Anthony,Thompson,Argentina,Female,54,3-6 months,Football,2 - 4 hours,Weekly,6587,75,Weekly,187,510,72800,3324,77169
+386726,Larry,Cohen,Mexico,Female,47,3-6 months,Cricket,Less than 1 hour,Weekly,15401,79,Weekly,4814,78,15072,10655,46675
+493293,Wendy,Douglas,Argentina,Male,60,3-6 months,Basketball,4 - 6 hours,Weekly,1720,67,Rarely/Never,3977,418,37246,19814,48152
+503943,Tracy,Hill,Mexico,Female,41,1-3 months,Football,2 - 4 hours,Monthly,10998,92,Weekly,575,19,40168,28398,74775
+946266,James,Perez,Mexico,Female,19,More than a year,Basketball,4 - 6 hours,Daily,16915,84,Monthly,641,259,128259,27875,35750
+297121,Preston,Crawford,Mexico,Female,70,Less than a month,Cricket,1 - 2 hours,Monthly,46714,64,Weekly,584,86,70026,49506,74886
+203501,Frank,Brown,Brazil,Female,47,Less than a month,Cricket,4 - 6 hours,Daily,120362,77,Weekly,4748,492,37607,21597,24637
+603010,Alyssa,Miles,India,Male,54,More than a year,Cricket,Less than 1 hour,Weekly,8004,56,Weekly,596,316,38042,4697,55380
+596285,Claire,Taylor,India,Female,23,3-6 months,Virtual Games,4 - 6 hours,Monthly,52638,35,Monthly,391,338,62888,10513,54068
+164266,Edward,Wyatt,Brazil,Male,70,Less than a month,Football,4 - 6 hours,Daily,1552,95,Weekly,818,53,62011,10291,59124
+160570,Edward,Bell,Argentina,Male,23,More than a year,Basketball,1 - 2 hours,Weekly,5393,91,Daily,590,130,33806,7971,47706
+401928,Charles,Fisher,Brazil,Female,29,More than a year,Basketball,1 - 2 hours,Monthly,10461,72,Weekly,3869,290,28917,517,41578
+628566,Andrew,Brown,Argentina,Female,33,1-3 months,Cricket,1 - 2 hours,Weekly,13378,124,Rarely/Never,582,215,20213,3322,41524
+960305,Natalie,Campos,Argentina,Female,38,More than a year,Other,Less than 1 hour,Occasionally,9927,87,Monthly,128,275,34823,11657,64906
+793891,Diane,Townsend,Mexico,Male,46,More than a year,Football,2 - 4 hours,Daily,7971,101,Weekly,543,127,44957,28813,17804
+126476,Anna,Horn,India,Male,18,More than a year,Cricket,4 - 6 hours,Weekly,5353,74,Weekly,428,207,3247,2296,13416
+388702,Natalie,Nelson,Mexico,Male,22,More than a year,Cricket,1 - 2 hours,Monthly,4651,96,Weekly,831,261,48055,10333,57981
+542115,Maria,Phillips,Brazil,Male,30,3-6 months,Cricket,1 - 2 hours,Daily,137791,61,Daily,688,9,4910,3471,2976
+957141,Amanda,Harrison,India,Female,36,More than a year,Cricket,2 - 4 hours,Occasionally,7683,88,Weekly,633,94,140990,7369,138039
+502095,Tyler,Obrien,Argentina,Male,43,3-6 months,Cricket,1 - 2 hours,Monthly,11334,76,Daily,316,65,26567,16501,54277
+585395,Andrew,Santiago,Mexico,Female,28,Less than a month,Other,1 - 2 hours,Weekly,13755,132,Weekly,102,86,55052,6887,39360
+185685,Melissa,Perkins,Brazil,Male,62,3-6 months,Cricket,4 - 6 hours,Daily,13665,116,Monthly,537,281,10239,7239,36997
+788731,Maurice,Rogers,India,Male,40,6-12 months,Cards,4 - 6 hours,No,10772,67,Weekly,701,212,27910,9333,48539
+641074,Jason,Miller,India,Male,18,6-12 months,Baseball,More than 6 hours,Daily,84020,59,Weekly,542,59,112363,20438,248398
+830852,Samantha,Cox,India,Male,64,Less than a month,Avitaor,4 - 6 hours,Weekly,11681,48,Weekly,563,283,65916,32080,39891
+160771,Kara,Castro,India,Female,65,3-6 months,Cricket,4 - 6 hours,Monthly,113666,66,Daily,231,338,15282,10804,143976
+691370,Monique,Hall,Brazil,Male,28,6-12 months,Basketball,Less than 1 hour,Daily,10143,74,Monthly,779,117,52454,6559,57820
+188856,Evan,Martinez,Brazil,Female,44,More than a year,Cricket,Less than 1 hour,Daily,52022,55,Weekly,458,275,8117,5738,76149
+883826,Mark,Davis,India,Female,54,More than a year,Virtual Games,More than 6 hours,Monthly,3522,2,Monthly,260,147,70408,14094,5395
+592999,Gregory,Miller,Brazil,Female,57,6-12 months,Virtual Games,4 - 6 hours,Daily,1206,285,Weekly,784,49,47412,33519,64580
+131946,Adriana,Garcia,Argentina,Female,65,More than a year,Cricket,4 - 6 hours,Occasionally,9127,78,Weekly,48,393,52971,15224,7194
+499161,Steven,Brown,Argentina,Male,58,6-12 months,Football,1 - 2 hours,Occasionally,6685,70,Daily,352,68,27576,18301,48919
+992441,Jamie,Stone,Argentina,Male,53,6-12 months,Cricket,2 - 4 hours,Daily,9220,58,Daily,619,55,75612,6736,89787
+999024,Nicholas,Spencer,Argentina,Female,59,3-6 months,Cricket,More than 6 hours,Weekly,7283,74,Monthly,350,554,16951,13499,44870
+567344,Tyler,Torres,Mexico,Male,68,1-3 months,Virtual Games,2 - 4 hours,Daily,11473,95,Monthly,700,405,22174,5489,22445
+174986,Jessica,Cole,Brazil,Male,29,1-3 months,Football,More than 6 hours,Weekly,5912,111,Weekly,152,470,29339,20742,55523
+490538,Cynthia,Heath,India,Female,54,3-6 months,Cricket,More than 6 hours,Daily,647,736,Monthly,732,79,68043,15809,51907
+912219,Richard,Fletcher,India,Male,28,Less than a month,Baseball,4 - 6 hours,Monthly,11854,48,Monthly,681,5,64088,27956,34980
+713741,Angela,Carlson,Mexico,Male,21,More than a year,Cricket,4 - 6 hours,Weekly,24541,61,Monthly,651,333,42064,17537,89737
+751456,Christina,Franco,Argentina,Male,18,3-6 months,Basketball,Less than 1 hour,Daily,4225,50,Daily,456,350,62724,35181,105041
+870263,Christopher,Anderson,Mexico,Female,68,1-3 months,Kabaddi,4 - 6 hours,Weekly,7167,49,Rarely/Never,344,127,71364,18658,45850
+154395,Victoria,Dunn,Argentina,Male,54,1-3 months,Basketball,More than 6 hours,Monthly,1372,125,Weekly,259,98,23867,9744,29444
+120009,Sherry,Wong,Mexico,Female,62,3-6 months,Cricket,More than 6 hours,Monthly,42829,60,Weekly,629,129,66553,47051,71827
+980747,Laura,Ball,Mexico,Male,55,3-6 months,Other,Not using per day.,Weekly,104405,80,Daily,593,155,27664,19558,67541
+269144,Robin,Brown,India,Female,29,3-6 months,Basketball,More than 6 hours,Weekly,10777,96,Weekly,73,18,304588,215335,136408
+871841,Rachel,Hanson,Brazil,Female,27,1-3 months,Ladie badminton ,4 - 6 hours,Daily,13595,107,Daily,818,50,33553,23721,84084
+424025,Eric,Garcia,Mexico,Female,30,More than a year,Cricket,2 - 4 hours,Monthly,7339,59,Monthly,191,186,10154,7179,26431
+304994,Wyatt,Morris,India,Male,52,More than a year,Cricket,4 - 6 hours,Monthly,3925,79,Monthly,249,357,27409,25945,52003
+671643,Justin,Curry,Brazil,Male,18,More than a year,Basketball,2 - 4 hours,Weekly,9797,80,Weekly,298,22,21461,15172,46425
+667689,Charles,Walker,Mexico,Male,24,1-3 months,Cricket,Less than 1 hour,Weekly,16533,45,Monthly,484,213,62342,35253,107884
+700847,James,Walker,Argentina,Male,25,More than a year,Cricket,4 - 6 hours,Weekly,24313,65,Monthly,609,26,6501,4596,49312
+392535,Nicholas,Strickland,Argentina,Male,68,3-6 months,Cricket,2 - 4 hours,Occasionally,6512,101,Weekly,150,350,2081,1471,13686
+354447,Jennifer,Torres,Brazil,Female,56,Less than a month,Virtual Games,Less than 1 hour,Monthly,38857,61,Weekly,359,282,28689,3293,90574
+316030,Natalie,Ashley,Argentina,Male,37,1-3 months,Cricket,1 - 2 hours,Daily,2269,59,Rarely/Never,248,171,10870,7685,20808
+621970,Marcus,Robinson,India,Female,38,3-6 months,Basketball,2 - 4 hours,Weekly,108073,38,Weekly,751,20,24699,1316,135742
+899486,Jason,Lowe,Mexico,Male,66,More than a year,Football,Less than 1 hour,Daily,11234,94,Monthly,636,292,14119,4911,34264
+594666,Benjamin,Gardner,India,Female,48,3-6 months,Cricket,1 - 2 hours,Daily,7501,102,Monthly,120,156,42109,20362,63968
+662363,Jennifer,Reese,Mexico,Female,26,6-12 months,Cricket,1 - 2 hours,Occasionally,52583,86,Weekly,79,60,32238,22791,18170
+887994,Eric,Cruz,Mexico,Male,25,Less than a month,Table Tennis,1 - 2 hours,Daily,5501,104,Daily,513,257,58431,8982,67338
+204712,Adrian,Scott,Mexico,Male,34,3-6 months,Cricket,Less than 1 hour,Monthly,1885,91,Monthly,577,321,10403,7355,19051
+975882,Anna,Walker,Mexico,Female,61,More than a year,Baseball,1 - 2 hours,Daily,482,87,Monthly,320,32,11311,8407,16301
+932129,Stephanie,Mclaughlin,Brazil,Male,62,Less than a month,Football,1 - 2 hours,Occasionally,124700,55,Monthly,196,167,30570,20674,111873
+542829,Emily,Smith,Brazil,Female,68,1-3 months,Football,2 - 4 hours,Weekly,6729,120,Daily,751,196,62475,13997,77859
+507434,Savannah,Wright,Brazil,Male,64,3-6 months,Basketball,Less than 1 hour,Weekly,4298,110,Weekly,31,2,43331,1151,19346
+623229,Angela,Smith,Brazil,Female,54,1-3 months,Football,Less than 1 hour,Weekly,5045,65,Monthly,328,476,60788,14979,29192
+763610,Hunter,Torres,India,Male,31,Less than a month,Other,1 - 2 hours,Daily,7211,97,Weekly,504,402,43069,12153,57504
+735209,Gregory,Wilson,Brazil,Male,61,1-3 months,Cricket,4 - 6 hours,Occasionally,9515,10,Monthly,894,991,16040,11340,38320
+751087,Diana,Reyes,Argentina,Female,53,Less than a month,Cricket,2 - 4 hours,Monthly,5734,24,Daily,740,114,51040,1562,56886
+502215,Erin,Gutierrez,Mexico,Female,29,More than a year,Cricket,2 - 4 hours,Occasionally,49874,119,Weekly,756,243,38172,32256,9347
+460991,Zachary,Le,Brazil,Male,55,1-3 months,Cricket,1 - 2 hours,Daily,12180,72,Daily,462,376,6715,5051,29828
+354885,Thomas,York,Argentina,Male,68,1-3 months,Football,More than 6 hours,Monthly,10638,93,Weekly,90,38,48423,31659,92352
+776177,Amber,George,Brazil,Male,31,More than a year,Football,1 - 2 hours,Occasionally,31780,63,Weekly,313,498,11712,8280,68987
+550838,Amanda,Page,Argentina,Female,66,Less than a month,Basketball,4 - 6 hours,Daily,47164,57,Daily,564,91,38024,11855,65695
+815198,Robert,Boone,Argentina,Male,48,More than a year,Football,Less than 1 hour,Monthly,40981,3,Daily,357,19,81481,10243,102455
+933991,Regina,White,Brazil,Female,59,3-6 months,Basketball,2 - 4 hours,Daily,12534,114,Weekly,121,6,27965,1531,45052
+446554,Shannon,Wright,India,Female,28,6-12 months,Football,1 - 2 hours,No,9156,13,Weekly,375,307,70725,28707,66948
+210847,Erin,Stephenson,Mexico,Female,28,Less than a month,Virtual Games,4 - 6 hours,Weekly,6597,75,Daily,738,311,55345,39127,98182
+414128,Pamela,Adams,Mexico,Male,33,1-3 months,Football,Less than 1 hour,Weekly,55267,78,Monthly,631,29,24362,17223,125601
+103984,Thomas,Dennis,Brazil,Female,32,Less than a month,Basketball,2 - 4 hours,Monthly,12503,97,Monthly,881,137,6481,4582,29781
+439815,Carlos,Solomon,India,Female,23,1-3 months,Virtual Games,1 - 2 hours,Weekly,16213,120,Weekly,576,336,45361,36811,94621
+934906,Rachel,Olsen,Mexico,Female,30,More than a year,Cricket,Less than 1 hour,Monthly,56373,12,Weekly,810,4901,40264,2409,75953
+617071,April,Montoya,India,Male,53,Less than a month,Basketball,1 - 2 hours,Daily,4673,87,Rarely/Never,314,61,56564,6895,6215
+536190,Kelly,Goodman,India,Male,65,More than a year,Cricket,More than 6 hours,Monthly,6708,25,Weekly,125,412,36399,9131,54494
+806052,Mark,Jones,Argentina,Female,44,More than a year,Avitaor,4 - 6 hours,Occasionally,6020,117,Weekly,690,78,34789,22487,61267
+190761,Craig,Poole,Argentina,Female,18,1-3 months,Cricket,2 - 4 hours,Weekly,21223,32,Weekly,23,159,34040,16913,46944
+246565,Mark,Kennedy,Argentina,Female,40,More than a year,Basketball,4 - 6 hours,Occasionally,8086,103,Weekly,622,138,64765,3754,75957
+927994,Anthony,Campbell,Argentina,Female,68,Less than a month,Cricket,1 - 2 hours,Daily,3102,7,Weekly,677,159,40121,12287,16632
+457033,Lisa,Payne,India,Female,47,More than a year,Football,2 - 4 hours,Weekly,103782,24,Rarely/Never,359,248,13565,9590,104195
+310728,Justin,Miller,Argentina,Female,20,3-6 months,Cricket,2 - 4 hours,Weekly,8433,70,Weekly,408,198,10769,8219,29604
+455580,Jose,Petersen,Brazil,Female,61,3-6 months,Other,Less than 1 hour,Occasionally,5214,92,Weekly,566,257,10411,7360,23283
+135200,Michael,Rowe,Mexico,Female,46,More than a year,Football,More than 6 hours,No,11967,95,Daily,443,317,27109,19165,40310
+318391,Joseph,Small,India,Male,52,3-6 months,Cricket,1 - 2 hours,Weekly,18271,77,Daily,556,378,18060,12768,1315
+374255,Jonathan,Pollard,India,Female,37,1-3 months,Football,4 - 6 hours,Daily,79988,25,Monthly,43,146,61766,4455,43735
+788947,Taylor,Rodriguez,Brazil,Female,35,More than a year,Cricket,2 - 4 hours,Daily,10528,81,Weekly,322,107,27936,17899,62233
+300253,Natalie,Carter,India,Male,69,Less than a month,Basketball,1 - 2 hours,Weekly,9006,45,Weekly,407,258,71751,2417,66124
+592518,Patrick,Stephenson,Argentina,Male,37,1-3 months,Football,1 - 2 hours,Monthly,131244,58,Daily,896,469,32861,11330,116015
+722365,Lisa,Hahn,Argentina,Female,65,1-3 months,Cricket,2 - 4 hours,Weekly,2761,87,Weekly,362,2682,122489,86596,82019
+215488,Joseph,Neal,India,Male,29,6-12 months,Cricket,Less than 1 hour,Occasionally,6805,84,Daily,105,60,116207,23957,98903
+381582,Steven,Knight,Mexico,Female,28,More than a year,Football,2 - 4 hours,Monthly,13001,75,Monthly,469,87,42367,24299,76514
+906792,Amy,Mcintosh,India,Male,63,More than a year,Basketball,Less than 1 hour,Monthly,85,99,Rarely/Never,788,100,17255,1655,6446
+872936,Amy,Bradley,Argentina,Female,36,Less than a month,Football,1 - 2 hours,Monthly,9504,114,Weekly,294,348,33783,11902,63033
+108341,Gene,Clay,Mexico,Male,26,More than a year,Cricket,4 - 6 hours,Monthly,2252,87,Weekly,84,170,54220,24808,29249
+179870,Eric,Robinson,India,Male,36,1-3 months,Football,Less than 1 hour,Weekly,98793,47,Monthly,774,502,27445,19403,149988
+239717,Joseph,Charles,Argentina,Female,62,1-3 months,Football,More than 6 hours,Daily,9129,19,Daily,520,20,35447,13102,17894
+963034,Jessica,Woods,Brazil,Female,55,3-6 months,Football,Less than 1 hour,Daily,6768,119,Rarely/Never,744,92,12804,9052,29222
+754565,Adriana,Johnson,India,Female,59,1-3 months,Baseball,2 - 4 hours,Daily,142146,27,Weekly,96,118,15575,8471,28657
+723523,Joshua,Miller,India,Female,46,Less than a month,Football,1 - 2 hours,Weekly,4782,111,Monthly,530,126,76591,54148,112861
+956315,Terri,Henry,Mexico,Female,70,More than a year,Football,2 - 4 hours,Weekly,84548,77,Monthly,753,19,8499,6009,124634
+539283,Ashley,Turner,Brazil,Male,51,3-6 months,Cricket,1 - 2 hours,Daily,8365,111,Weekly,770,129,127202,21112,119889
+493494,Kimberly,Murphy,India,Female,64,Less than a month,Other,Less than 1 hour,Weekly,120308,74,Weekly,87,325,18008,7055,12455
+177829,Robert,Walker,Brazil,Female,68,1-3 months,Cricket,4 - 6 hours,Monthly,1973,58,Daily,16619,10,58477,7895,55926
+809621,Darlene,Riley,Brazil,Male,21,1-3 months,Football,Less than 1 hour,Occasionally,68945,42,Rarely/Never,561,363,22447,15869,94542
+999643,Steven,Higgins,Brazil,Male,34,More than a year,Football,1 - 2 hours,Daily,5638,90,Monthly,424,199,107738,9130,104994
+147254,Justin,Stokes,Argentina,Male,65,More than a year,Cricket,Less than 1 hour,Daily,4138,106,Weekly,617,173,72925,17342,80443
+829235,Samantha,Farrell,India,Female,52,1-3 months,Cricket,1 - 2 hours,Weekly,1404,63,Monthly,548,401,38972,18549,50652
+297909,Timothy,Anderson,Brazil,Male,30,1-3 months,Virtual Games,4 - 6 hours,Daily,4332,11,Monthly,431,406,43928,10666,36500
+387754,Jeremy,Franco,Mexico,Female,57,1-3 months,Other,More than 6 hours,Monthly,12295,569,Daily,605,107,10647,5812,1283
+640786,Michael,Adams,Brazil,Male,39,More than a year,Baseball,2 - 4 hours,Monthly,7052,73,Weekly,315,137,17263,2412,27891
+352579,Shannon,Sanchez,Brazil,Female,44,3-6 months,Cricket,1 - 2 hours,Weekly,11681,87,Weekly,331,373,7214,5100,29457
+769371,James,Vincent,Brazil,Male,63,Less than a month,Basketball,1 - 2 hours,Daily,75426,68,Daily,589,237,51,36,25508
+551368,Philip,Miller,India,Female,57,3-6 months,Basketball,1 - 2 hours,Weekly,41862,84,Weekly,648,43,51622,10249,68525
+301785,Karen,Ferguson,Argentina,Female,24,Less than a month,Cricket,Not using per day.,Monthly,86084,81,Daily,531,386,7546,5335,79641
+312869,Christine,Turner,Mexico,Female,50,3-6 months,Basketball,2 - 4 hours,Weekly,2915,75,Daily,521,20,13477,10281,26672
+502130,Thomas,Davis,Argentina,Female,57,Less than a month,Football,1 - 2 hours,Daily,10117,80,Monthly,330,441,49540,29948,90336
+857950,Levi,Miles,India,Female,64,6-12 months,Baseball,4 - 6 hours,Daily,22075,49,Rarely/Never,717,24,26007,4757,61855
+963893,Joshua,Humphrey,India,Male,46,1-3 months,Basketball,2 - 4 hours,Daily,6077,115,Weekly,555,254,46611,32622,77974
+691255,Shannon,Molina,Brazil,Female,52,More than a year,Football,1 - 2 hours,Occasionally,37768,87,Monthly,477,205,88939,45611,134249
+617076,Samuel,Garcia,Mexico,Male,26,6-12 months,Cricket,4 - 6 hours,Daily,19321,124,Weekly,727,270,63751,28277,121515
+942114,Michael,King,Argentina,Female,56,1-3 months,Football,1 - 2 hours,Daily,3938,75,Monthly,341,242,26212,18531,2640
+884342,Jason,Brown,India,Male,53,1-3 months,Football,Less than 1 hour,Daily,4161,93,Monthly,727,3,18145,14952,34832
+873357,Jeffrey,Davis,Argentina,Male,52,3-6 months,Cricket,More than 6 hours,Daily,12756,125,Weekly,349,288,34372,5489,53977
+432678,Luke,Ferguson,Argentina,Male,65,More than a year,Cricket,2 - 4 hours,Monthly,20967,70,Weekly,16934,421,168917,35574,72733
+728911,Suzanne,Vaughan,Mexico,Female,22,More than a year,Basketball,2 - 4 hours,Occasionally,1898,102,Monthly,487,275,48306,26128,61772
+527800,Ricardo,Garrett,Mexico,Male,39,3-6 months,Basketball,4 - 6 hours,Weekly,49123,131,Monthly,342,267,42953,31189,91711
+726780,Mary,Reese,Argentina,Female,44,1-3 months,Cricket,2 - 4 hours,Monthly,15005,63,Rarely/Never,422,283,68241,4922,27270
+845467,Cynthia,Owen,India,Male,57,More than a year,Baseball,1 - 2 hours,Daily,503,112,Monthly,512,298,21414,15139,29042
+281910,Lori,Singleton,Mexico,Female,46,1-3 months,Football,2 - 4 hours,Monthly,7027,51,Monthly,498,165,50622,16029,71361
+909847,Leslie,Shannon,Mexico,Female,28,3-6 months,Cricket,4 - 6 hours,Monthly,45095,60,Daily,651,287,30670,21683,37642
+309362,Bradley,Perry,Brazil,Male,52,Less than a month,Basketball,Less than 1 hour,Monthly,28579,5,Monthly,713,381,3422,2419,52017
+491867,Jon,Young,India,Male,69,3-6 months,Cricket,Less than 1 hour,Weekly,8345,29,Weekly,539,558,18895,13358,40411
+488130,Paul,Murray,India,Male,20,Less than a month,Cricket,1 - 2 hours,Weekly,5801,124,Monthly,609,108,67414,62240,85015
+144678,Christopher,Cobb,India,Female,31,3-6 months,Table Tennis,Less than 1 hour,Occasionally,6544,70,Monthly,256,211,95708,23482,44705
+332457,Angela,Lopez,Brazil,Female,56,Less than a month,Football,1 - 2 hours,Daily,57575,65,Monthly,689,390,7609,5379,84094
+970669,Albert,Thompson,Mexico,Male,50,3-6 months,Baseball,4 - 6 hours,Occasionally,3917,100,Rarely/Never,413,218,143907,17100,133049
+571074,Shawn,Anderson,India,Female,33,More than a year,Cricket,2 - 4 hours,Daily,2267,34,Weekly,654,239,61761,12172,15713
+183217,Nathan,Cook,Brazil,Male,33,3-6 months,Football,4 - 6 hours,Monthly,61549,100,Weekly,522,5,73108,3499,99301
+944510,Kevin,Barrett,Argentina,Male,46,Less than a month,Cricket,1 - 2 hours,Monthly,6379,65,Daily,638,291,8602,6081,6386
+267310,Diana,Villa,Brazil,Female,31,Less than a month,Basketball,2 - 4 hours,Monthly,7669,112,Monthly,653,457,55971,22060,68645
+770077,Joshua,Hunter,Mexico,Male,37,More than a year,Basketball,2 - 4 hours,Monthly,59985,53,Weekly,8907,68,59421,13368,147715
+176857,Eric,Coleman,India,Male,26,More than a year,Cricket,Less than 1 hour,Daily,49692,68,Monthly,316,79,78628,19894,66360
+406868,Laura,Johnson,Mexico,Female,61,More than a year,Cricket,1 - 2 hours,Weekly,55341,118,Monthly,436,343,202556,34318,76078
+149008,Ashley,Pitts,Argentina,Female,47,3-6 months,Basketball,More than 6 hours,No,119684,118,Weekly,651,439,59638,29211,146241
+699098,Denise,Wong,India,Female,35,More than a year,Basketball,Less than 1 hour,Daily,58577,62,Monthly,219,103,22505,13341,126329
+709710,Thomas,Burton,Mexico,Female,48,3-6 months,Football,1 - 2 hours,Monthly,883,90,Weekly,94,261,52309,17927,41625
+509181,Stephen,Rice,Mexico,Male,40,Less than a month,Football,More than 6 hours,Daily,43615,98,Rarely/Never,348,162,20205,15271,9977
+479641,Beth,Wilson,Mexico,Female,62,1-3 months,Ladie badminton ,2 - 4 hours,Weekly,45881,52,Monthly,311,345,58827,22841,11039
+836136,Whitney,Henry,India,Male,43,1-3 months,Cricket,1 - 2 hours,Daily,13274,50,Monthly,728,187,2667,1885,25679
+299746,Carmen,Brooks,India,Female,34,Less than a month,Cricket,2 - 4 hours,Occasionally,122065,81,Rarely/Never,386,143,28503,20151,241746
+193788,Maria,Hansen,India,Male,36,3-6 months,Football,2 - 4 hours,Weekly,21657,99,Monthly,741,533,75073,7102,53966
+498086,Jennifer,Greer,Argentina,Male,38,3-6 months,Cricket,1 - 2 hours,Occasionally,5442,68,Rarely/Never,330,133,43603,37816,37843
+550872,Amy,White,Brazil,Male,18,1-3 months,Virtual Games,2 - 4 hours,Monthly,50732,101,Daily,48,362,71595,15946,44238
+907643,Taylor,Walters,Argentina,Female,37,3-6 months,Football,1 - 2 hours,Daily,8307,116,Monthly,523,237,48474,36162,88760
+140705,Erica,Thomas,India,Male,39,Less than a month,Football,1 - 2 hours,Weekly,4378,104,Daily,27,39,70249,39650,95950
+597710,Michael,Palmer,India,Female,60,1-3 months,Football,1 - 2 hours,Daily,16520,816,Monthly,519,124,38473,12650,69492
+874885,Thomas,Patel,Mexico,Male,26,1-3 months,Baseball,Less than 1 hour,Occasionally,43850,102,Monthly,482,98,38135,7018,131911
+973822,Richard,Richardson,Brazil,Female,21,Less than a month,Football,1 - 2 hours,Monthly,16439,13,Daily,346,115,101595,4775,63077
+916407,John,Church,India,Female,52,6-12 months,Ladie badminton ,More than 6 hours,Monthly,7519,49,Monthly,368,240,43268,22877,67031
+775127,Daniel,Williams,India,Female,40,Less than a month,Cricket,More than 6 hours,Weekly,7589,101,Weekly,411,183,68840,27772,31333
+857768,Lucas,Mitchell,India,Female,22,More than a year,Cricket,More than 6 hours,Monthly,48219,92,Weekly,79,289,17154,8788,105100
+541909,Brian,Martin,Argentina,Male,65,1-3 months,Cricket,4 - 6 hours,Monthly,17686,63,Rarely/Never,229,85,49691,8376,77151
+758567,Brian,Madden,Mexico,Female,39,Less than a month,Football,Less than 1 hour,Weekly,8782,72,Monthly,713,368,45197,22407,81328
+919303,Shawn,Martin,India,Male,58,1-3 months,Cricket,4 - 6 hours,Daily,8693,57,Weekly,530,37,48814,747,63509
+917333,Linda,Schroeder,India,Female,51,3-6 months,Ladie badminton ,Less than 1 hour,Daily,72829,41,Monthly,741,40,75243,53195,32093
+748974,Frederick,Edwards,Argentina,Male,46,3-6 months,Cricket,2 - 4 hours,Monthly,3911,65,Weekly,3427,77,41343,4417,46242
+405845,Wanda,Campbell,India,Female,37,More than a year,Football,2 - 4 hours,Daily,41125,48,Weekly,556,48,62723,19837,17995
+179782,Alan,Smith,Mexico,Male,24,6-12 months,Cricket,4 - 6 hours,Occasionally,5274,118,Daily,330,126,61161,17289,49226
+640228,Jessica,Walker,Mexico,Female,25,More than a year,Football,Less than 1 hour,Daily,4082,98,Rarely/Never,407,277,1564,1106,8945
+522112,Jason,Knapp,Mexico,Female,30,Less than a month,Ladie badminton ,4 - 6 hours,Occasionally,20284,44,Rarely/Never,518,31,48894,22216,92210
+687255,Brittney,Hicks,Brazil,Female,52,1-3 months,Football,2 - 4 hours,Monthly,5380,348,Monthly,164,22,14811,10471,35245
+780315,Kristen,Mathis,India,Female,70,1-3 months,Cricket,Less than 1 hour,Weekly,818,89,Rarely/Never,525,270,64188,21213,55764
+672198,Todd,Cook,Brazil,Male,54,Less than a month,Virtual Games,4 - 6 hours,Weekly,4447,103,Monthly,715,423,78100,28379,93582
+739109,Beth,Walker,Argentina,Male,43,1-3 months,Cricket,1 - 2 hours,Weekly,23484,86,Monthly,820,469,8931,6314,51368
+530983,Grant,Ramos,Argentina,Female,69,3-6 months,Cricket,Less than 1 hour,Weekly,8267,55,Monthly,152,2,47597,33650,86088
+741449,Randy,Lynn,India,Male,19,More than a year,Ladie badminton ,2 - 4 hours,Monthly,7089,37,Weekly,689,356,20856,11398,45644
+657798,Megan,Baldwin,Brazil,Female,56,1-3 months,Cricket,Less than 1 hour,Monthly,5669,90,Rarely/Never,150,287,32113,9909,48722
+469019,Benjamin,Barry,India,Male,28,More than a year,Cricket,Less than 1 hour,Occasionally,86505,15,Rarely/Never,718,352,53187,24572,64001
+882354,John,Johnson,Mexico,Male,41,1-3 months,Cricket,1 - 2 hours,Daily,10245,76,Rarely/Never,380,146,49172,34763,13967
+282054,Richard,Anderson,Mexico,Male,20,1-3 months,Cricket,2 - 4 hours,Daily,21653,56,Monthly,388,54,35471,15199,67686
+111580,Diana,Thompson,India,Female,53,3-6 months,Cricket,Less than 1 hour,Occasionally,5109,105,Monthly,381,1,65860,19979,80033
+165616,Tracy,Flynn,Brazil,Female,63,Less than a month,Football,1 - 2 hours,Monthly,1183,41,Weekly,251,123,23285,13885,37151
+470469,Christopher,Garcia,India,Male,63,1-3 months,Basketball,2 - 4 hours,Weekly,19183,101,Weekly,461,237,50492,4328,76942
+462345,Pamela,Powell,Brazil,Male,48,1-3 months,Cricket,More than 6 hours,Daily,15743,86,Monthly,697,229,27734,11048,58019
+896773,Jamie,Rodriguez,India,Female,34,1-3 months,Football,1 - 2 hours,Monthly,87,115,Monthly,673,389,20663,5096,7663
+781146,Jacqueline,Buchanan,Mexico,Male,42,Less than a month,Baseball,1 - 2 hours,Daily,39559,31,Weekly,306,162,7175,4375,74863
+488352,Krista,Jones,Mexico,Female,30,6-12 months,Cricket,1 - 2 hours,Occasionally,35559,77,Weekly,14,223,24277,19420,94800
+225133,Michael,Murphy,India,Male,30,Less than a month,Basketball,1 - 2 hours,No,4426,103,Weekly,675,308,70333,34013,89044
+310953,Breanna,Clark,India,Female,40,1-3 months,Cricket,More than 6 hours,Monthly,4103,33,Daily,757,41,19813,17144,27369
+578386,Duane,Lee,Mexico,Male,42,3-6 months,Kabaddi,More than 6 hours,Weekly,5017,84,Weekly,363,273,30198,4650,41356
+322423,Traci,Parker,Brazil,Female,26,1-3 months,Cricket,2 - 4 hours,Monthly,6179,506,Weekly,259,233,57808,3469,64759
+997461,James,Garcia,Brazil,Male,43,3-6 months,Basketball,4 - 6 hours,No,3826,95,Weekly,2804,311,58865,5229,59793
+985223,Paul,Jones,India,Female,53,3-6 months,Cricket,1 - 2 hours,Weekly,85756,105,Weekly,469,62,17827,12603,81984
+172392,Geoffrey,Evans,India,Female,42,Less than a month,Virtual Games,1 - 2 hours,Daily,13320,24,Daily,749,180,41616,29421,93620
+266995,Phillip,Hall,Mexico,Male,39,1-3 months,Cricket,4 - 6 hours,Daily,3820,81,Weekly,454,200,5175,3659,13602
+967797,Kevin,Meyer,Mexico,Male,39,1-3 months,Cricket,2 - 4 hours,Daily,2320,99,Weekly,609,446,4141,2928,9668
+346667,Julie,Crawford,Argentina,Male,38,1-3 months,Cricket,4 - 6 hours,Daily,9457,127,Monthly,421,170,82291,37164,118446
+810886,Judith,Hernandez,Mexico,Male,22,More than a year,Cricket,2 - 4 hours,Daily,9758,96,Monthly,118,298,46547,41295,95545
+476950,Richard,Rodriguez,India,Male,46,3-6 months,Virtual Games,4 - 6 hours,Daily,665,69,Monthly,309,26,14416,10192,20535
+342606,Michael,Becker,India,Male,63,Less than a month,Cricket,Less than 1 hour,Monthly,4708,95,Weekly,75,177,82493,19485,37854
+211391,Jason,Houston,Brazil,Female,38,3-6 months,Football,2 - 4 hours,Occasionally,59548,49,Monthly,322,447,30104,187,143599
+391628,Ricardo,Lindsey,Argentina,Male,69,More than a year,Basketball,1 - 2 hours,Occasionally,6457,77,Monthly,270,221,19274,13626,44227
+719182,Patricia,Brown,Argentina,Male,36,1-3 months,Cricket,1 - 2 hours,Occasionally,4014,117,Monthly,786,164,41665,14642,54495
+660425,Candace,Davis,Brazil,Female,43,3-6 months,Cricket,4 - 6 hours,Weekly,16301,114,Weekly,674,155,31179,16681,55801
+189780,Julie,Wise,Argentina,Male,48,More than a year,Basketball,Not using per day.,Occasionally,59851,44,Rarely/Never,821,4,42429,12148,45446
+798965,Jeffery,Simmons,Brazil,Male,36,More than a year,Cricket,4 - 6 hours,Daily,11148,65,Monthly,551,235,66254,3149,44329
+458815,Andrew,Castaneda,Mexico,Male,51,1-3 months,Cricket,4 - 6 hours,Daily,8154,708,Weekly,308,30,59013,18556,35375
+712259,David,Baker,India,Male,59,1-3 months,Virtual Games,Less than 1 hour,Monthly,2436,33,Weekly,509,306,51403,12874,61574
+136160,Thomas,Rogers,Mexico,Female,65,3-6 months,Cricket,1 - 2 hours,Weekly,18972,73,Monthly,3265,238,5027,3554,43291
+113743,Eric,Avila,India,Male,48,1-3 months,Football,4 - 6 hours,Monthly,5557,77,Daily,224,169,10831,7657,24442
+255261,Catherine,Bell,Argentina,Male,54,More than a year,Cricket,Less than 1 hour,Daily,36777,14,Weekly,119,153,66151,14582,54817
+723180,Gabriel,Smith,India,Female,45,Less than a month,Cricket,More than 6 hours,Daily,25333,74,Monthly,571,378,26131,18474,78663
+201434,Russell,Chavez,Mexico,Male,39,3-6 months,Virtual Games,1 - 2 hours,Monthly,18396,107,Daily,482,177,1461,1457,32788
+743903,Mackenzie,Dillon,Brazil,Female,39,3-6 months,Basketball,2 - 4 hours,Daily,142857,117,Weekly,726,288,56973,24594,167449
+524449,Zachary,Wood,Brazil,Male,31,Less than a month,Cricket,Less than 1 hour,No,8409,108,Monthly,42,230,33707,32654,75305
+436441,Lori,Lewis,Argentina,Male,20,Less than a month,Virtual Games,Less than 1 hour,Weekly,61697,66,Weekly,749,181,16260,2243,132600
+819387,Anthony,Gibson,Brazil,Female,34,3-6 months,Football,4 - 6 hours,Daily,25004,26,Daily,413,232,5815,4111,49486
+179588,Charles,Griffin,Argentina,Female,60,1-3 months,Basketball,1 - 2 hours,No,15555,47,Monthly,464,39,25571,9189,54387
+661590,Kevin,Hines,Argentina,Female,25,Less than a month,Kabaddi,1 - 2 hours,Monthly,44701,103,Weekly,511,542,2995,2117,78038
+721082,Jeffrey,Anderson,India,Female,48,Less than a month,Cricket,2 - 4 hours,Daily,3856,112,Monthly,36,43,37322,26386,59592
+987199,Sandra,Nielsen,Mexico,Male,29,1-3 months,Football,More than 6 hours,Monthly,9209,52,Weekly,759,99,75428,33457,36706
+623461,Stephen,Payne,India,Male,35,3-6 months,Cricket,1 - 2 hours,Monthly,5919,120,Daily,628,4752,106151,14735,18882
+279430,Jessica,Ashley,Argentina,Male,40,6-12 months,Other,1 - 2 hours,Monthly,2833,98,Rarely/Never,339,70,18085,12786,31782
+446199,Aaron,Johnson,India,Female,24,More than a year,Cricket,Less than 1 hour,Weekly,28704,60,Rarely/Never,657,229,72141,14185,84551
+331915,Stephen,Allison,Mexico,Female,31,3-6 months,Football,Less than 1 hour,Daily,149511,92,Monthly,233,205,10573,7475,96370
+614147,Gabriela,Yu,Brazil,Female,65,Less than a month,Cricket,Less than 1 hour,Monthly,68092,109,Weekly,18634,436,9129,6454,137540
+256455,Kristopher,Martinez,Brazil,Female,50,1-3 months,Basketball,4 - 6 hours,Weekly,3694,129,Daily,624,286,31152,15957,46604
+874406,Colin,Edwards,Brazil,Female,49,1-3 months,Virtual Games,1 - 2 hours,Weekly,12524,52,Monthly,368,279,64346,19227,19533
+141613,Maria,Rose,Argentina,Male,56,More than a year,Cricket,1 - 2 hours,Weekly,2102,2,Daily,546,856,12385,8756,3220
+567586,Brian,Nicholson,Argentina,Female,34,1-3 months,Cricket,4 - 6 hours,Occasionally,8925,116,Daily,705,396,40175,2655,59139
+318357,Colton,Boyd,Mexico,Female,70,More than a year,Table Tennis,2 - 4 hours,Daily,32592,105,Weekly,164,357,8264,5842,65468
+769076,Erika,Huang,Brazil,Female,70,3-6 months,Virtual Games,Less than 1 hour,Daily,27866,87,Monthly,225,304,37768,25036,18782
+767928,Anne,Clark,Argentina,Female,65,More than a year,Cricket,1 - 2 hours,Daily,79546,49,Daily,583,175,5208,3682,138699
+415147,Ryan,Lawson,Brazil,Male,65,Less than a month,Cricket,Less than 1 hour,Daily,13869,264,Weekly,462,34,41533,8825,64482
+665591,Pamela,Goodwin,Brazil,Female,67,3-6 months,Football,1 - 2 hours,Weekly,5879,56,Weekly,434,257,53144,30105,80402
+509883,Kimberly,Foster,Argentina,Female,36,Less than a month,Football,1 - 2 hours,Weekly,2369,96,Monthly,682,411,18274,12919,30627
+214469,Natalie,Hicks,India,Female,25,Less than a month,Cricket,2 - 4 hours,Weekly,12853,2,Weekly,589,121,69990,18389,19690
+501125,Christopher,Ramirez,Argentina,Female,36,3-6 months,Football,4 - 6 hours,Weekly,30982,98,Monthly,186,64,63090,2097,104986
+431402,Patricia,James,India,Male,38,More than a year,Football,1 - 2 hours,Weekly,37861,90,Weekly,467,179,1347,952,64420
+602782,Tanya,Nixon,India,Male,29,Less than a month,Virtual Games,4 - 6 hours,Daily,4004,865,Monthly,330,318,40912,30428,65786
+826355,Lori,Rowland,Mexico,Female,69,Less than a month,Baseball,2 - 4 hours,Occasionally,11267,13,Weekly,687,468,49572,20414,86644
+858006,Timothy,Bryant,Mexico,Female,20,3-6 months,Basketball,1 - 2 hours,Weekly,12757,109,Weekly,426,308,82,58,21182
+906112,Brenda,Fernandez,India,Female,30,1-3 months,Cricket,2 - 4 hours,Daily,55528,108,Monthly,90,81,64434,17023,49511
+900229,Kayla,Jones,Mexico,Female,62,6-12 months,Virtual Games,2 - 4 hours,Monthly,8775,17,Weekly,295,497,56711,6250,73847
+339610,Rachel,Shepard,India,Female,23,3-6 months,Basketball,2 - 4 hours,Daily,1219,26,Weekly,68,1951,45949,10527,16586
+930485,James,Vincent,Argentina,Female,25,1-3 months,Other,Less than 1 hour,Weekly,10339,66,Weekly,666,298,46690,27426,10058
+618274,Randy,Turner,Mexico,Male,48,More than a year,Virtual Games,1 - 2 hours,Daily,14760,83,Monthly,433,58,33912,12853,62987
+203261,Alexander,Taylor,India,Male,58,Less than a month,Football,Less than 1 hour,Occasionally,209,77,Monthly,693,129,38072,10374,12327
+939893,Michael,Mccann,Argentina,Male,33,Less than a month,Basketball,2 - 4 hours,Daily,21463,85,Rarely/Never,579,446,488,345,36131
+302348,Peter,Wiley,Mexico,Male,70,Less than a month,Football,4 - 6 hours,Weekly,6528,114,Monthly,338,326,66056,8635,75912
+970487,Tiffany,Melendez,Brazil,Male,35,1-3 months,Virtual Games,2 - 4 hours,Monthly,4267,120,Daily,7413,93,8218,5810,18629
+246076,Tyler,Garza,Mexico,Male,69,Less than a month,Football,Less than 1 hour,Weekly,63786,97,Monthly,510,316,58874,13725,33283
+840739,Joshua,Hernandez,Mexico,Male,60,6-12 months,Cricket,4 - 6 hours,Daily,5826,112,Weekly,3118,423,6118,4325,18243
+537215,Daniel,Salazar,Brazil,Female,27,3-6 months,Cricket,1 - 2 hours,Weekly,745,88,Weekly,394,150,8193,5792,12776
+488792,Teresa,Mcconnell,Mexico,Male,34,6-12 months,Basketball,1 - 2 hours,Monthly,11965,89,Weekly,664,212,8448,1187,16521
+155628,Christopher,Ayala,Mexico,Female,42,More than a year,Basketball,2 - 4 hours,Daily,99585,95,Daily,340,151,40476,1009,143312
+192310,Kathleen,Turner,Brazil,Female,53,1-3 months,Football,More than 6 hours,Weekly,14445,64,Daily,9232,236,69917,31461,99454
+754501,Scott,Russell,Brazil,Female,19,Less than a month,Cricket,2 - 4 hours,Monthly,773,114,Daily,130,164,18601,448,16674
+508435,William,Jones,India,Female,19,More than a year,Football,4 - 6 hours,Daily,11772,48,Monthly,616,1361,51547,7178,1221
+738055,Cody,Stevens,Brazil,Female,33,3-6 months,Football,2 - 4 hours,Weekly,18788,46,Weekly,235,165,8238,5824,23860
+256903,John,Wilson,Brazil,Female,20,More than a year,Cricket,Less than 1 hour,No,4366,64,Daily,694,45,13699,9685,30762
+842916,Devin,Vargas,India,Male,22,1-3 months,Cricket,2 - 4 hours,No,1738,102,Daily,641,81,5228,3696,11956
+352941,Joshua,Baxter,India,Female,31,3-6 months,Football,Less than 1 hour,Daily,16221,114,Weekly,269,36,46654,24688,102588
+323197,Raven,Harris,Mexico,Male,26,More than a year,Cricket,More than 6 hours,Weekly,72163,50,Weekly,241,163,51770,24583,157260
+562105,Julie,Cook,Brazil,Male,58,3-6 months,Virtual Games,More than 6 hours,Daily,12411,48,Rarely/Never,647,229,46952,4316,75994
+341634,Anthony,Howard,Brazil,Female,52,1-3 months,Basketball,1 - 2 hours,Daily,25279,122,Monthly,444,224,8720,6165,54035
+932444,Jessica,Powell,Brazil,Female,33,1-3 months,Basketball,Less than 1 hour,Weekly,14819,96,Daily,717,352,16102,13718,49093
+774423,James,Thompson,Argentina,Female,52,3-6 months,Football,1 - 2 hours,Weekly,4572,77,Weekly,648,269,12155,8493,29322
+345381,Mark,Gross,Brazil,Female,68,More than a year,Table Tennis,Less than 1 hour,Daily,26046,115,Daily,514,211,42934,9646,86425
+407308,Darlene,White,Mexico,Female,54,3-6 months,Basketball,2 - 4 hours,Daily,10153,39,Monthly,370,625,51389,17079,73299
+678416,Susan,Perry,Mexico,Female,27,1-3 months,Football,Less than 1 hour,Daily,7142,74,Daily,159,218,65789,12759,76649
+633250,Nichole,Barnes,India,Female,36,1-3 months,Virtual Games,2 - 4 hours,Monthly,4,85,Rarely/Never,627,137,25783,18228,260
+723569,Carl,Kane,India,Male,31,3-6 months,Table Tennis,1 - 2 hours,Daily,12269,70,Monthly,413,127,6635,4691,29612
+862717,Brianna,Kim,Argentina,Male,70,6-12 months,Football,4 - 6 hours,Daily,1543,101,Monthly,632,530,5868,4149,12192
+700292,Michael,Phillips,India,Female,34,Less than a month,Cricket,1 - 2 hours,Weekly,6850,53,Monthly,2581,113,4560,3224,17739
+334949,Sean,Thompson,India,Male,46,3-6 months,Basketball,1 - 2 hours,Daily,98694,123,Weekly,500,93,61814,43701,37462
+526276,Daniel,Moore,Brazil,Male,52,More than a year,Football,2 - 4 hours,Monthly,47719,44,Monthly,221,57,14012,9906,98550
+255163,Cheryl,Moon,Brazil,Female,31,3-6 months,Other,1 - 2 hours,Daily,13042,70,Monthly,736,32,18733,13244,47940
+439120,Randy,Henderson,India,Female,39,3-6 months,Football,4 - 6 hours,Weekly,93996,90,Weekly,56,328,9872,1800,164858
+911880,Sydney,Flores,Brazil,Female,22,3-6 months,Virtual Games,More than 6 hours,Daily,3117,21,Monthly,694,57,39372,12179,3999
+933623,Michelle,Johnson,Argentina,Male,24,Less than a month,Cricket,2 - 4 hours,Weekly,96729,19,Monthly,793,203,34806,19891,178753
+917802,Larry,Wallace,Argentina,Female,27,1-3 months,Kabaddi,Less than 1 hour,Daily,49757,32,Daily,561,236,64695,7214,99
+436624,Robert,Oliver,India,Male,26,More than a year,Cricket,Less than 1 hour,Weekly,4817,105,Rarely/Never,419,457,37056,34814,68634
+540470,Shawn,Green,Mexico,Female,51,Less than a month,Cricket,2 - 4 hours,Monthly,13642,38,Weekly,621,197,18216,17357,51900
+741241,Scott,Carter,India,Male,67,Less than a month,Basketball,2 - 4 hours,Daily,16485,120,Monthly,196,241,26951,19054,65208
+309388,Brian,Crane,Argentina,Male,61,1-3 months,Cricket,1 - 2 hours,Weekly,22513,72,Monthly,336,110,146551,20427,55738
+849299,Robert,Reynolds,Argentina,Male,54,1-3 months,Cricket,Not using per day.,Daily,44075,103,Monthly,823,405,40481,12915,102455
+557445,Christine,Davis,Brazil,Female,25,More than a year,Basketball,More than 6 hours,Monthly,17182,92,Weekly,889,115,15037,10631,49567
+522792,Stephanie,Werner,India,Female,64,1-3 months,Cricket,2 - 4 hours,No,13466,55,Weekly,729,105,26888,4861,2330
+228614,William,Green,Mexico,Female,50,More than a year,Basketball,1 - 2 hours,Weekly,10102,87,Monthly,586,178,36603,5239,61940
+405663,Samantha,Lynch,India,Male,42,1-3 months,Virtual Games,Less than 1 hour,Occasionally,3578,96,Daily,491,66,50940,29833,71606
+180696,Kenneth,Huber,Mexico,Male,49,Less than a month,Baseball,1 - 2 hours,Monthly,16354,109,Monthly,756,434,8282,4422,37496
+295747,Doris,Mcknight,Mexico,Male,21,More than a year,Cricket,2 - 4 hours,Monthly,3996,11,Weekly,627,275,53969,7178,33669
+835179,Tom,Mcbride,India,Male,47,1-3 months,Cricket,4 - 6 hours,Daily,13853,80,Daily,483,195,4807,3398,29651
+145748,Jennifer,White,Argentina,Male,65,3-6 months,Basketball,1 - 2 hours,Weekly,2622,40,Monthly,743,494,9332,6597,19894
+382714,Jon,Anderson,Argentina,Female,54,1-3 months,Virtual Games,2 - 4 hours,Daily,7423,69,Rarely/Never,285,379,14511,10259,32710
+777693,Courtney,Taylor,Argentina,Male,29,More than a year,Baseball,2 - 4 hours,Daily,8765,97,Monthly,410,9,18310,12945,40281
+777237,Alison,Reynolds,Brazil,Male,25,1-3 months,Football,More than 6 hours,Daily,20664,113,Daily,863,403,18145,12828,59697
+401076,Hunter,Jones,India,Female,63,Less than a month,Cricket,1 - 2 hours,Weekly,37962,90,Daily,676,460,68570,4170,93793
+321752,Jacqueline,Pollard,India,Female,47,More than a year,Football,2 - 4 hours,Occasionally,56033,807,Weekly,4477,74,28751,23225,63910
+440953,Mariah,Barron,India,Female,24,1-3 months,Football,1 - 2 hours,Weekly,23348,87,Daily,596,73,8200,5797,48276
+972439,Jennifer,Hicks,India,Male,61,More than a year,Virtual Games,Less than 1 hour,Daily,13767,56,Weekly,870,335,51978,22343,84100
+170728,Kyle,Smith,Argentina,Male,54,6-12 months,Cricket,1 - 2 hours,Occasionally,5639,108,Rarely/Never,727,303,44137,22443,67126
+413988,Ashley,Johnson,Mexico,Male,39,More than a year,Football,1 - 2 hours,Daily,418,74,Weekly,198,231,48832,13087,23693
+607014,Dennis,Walker,Mexico,Male,43,Less than a month,Cricket,1 - 2 hours,Monthly,41119,60,Monthly,105,172,17069,12067,99747
+941174,James,Bush,Mexico,Male,43,1-3 months,Cards,1 - 2 hours,Daily,8312,112,Weekly,357,371,66019,31740,98658
+146426,Andrew,Willis,Brazil,Female,64,3-6 months,Cricket,More than 6 hours,Daily,86288,72,Monthly,522,220,45095,4465,86712
+908347,Hunter,Willis,Mexico,Female,64,Less than a month,Kabaddi,2 - 4 hours,Daily,2986,90,Rarely/Never,707,66,25824,18257,41328
+498806,Joshua,Riley,Brazil,Female,34,1-3 months,Cricket,4 - 6 hours,Monthly,17112,63,Rarely/Never,653,273,12206,8629,45461
+383995,Brandon,Roman,India,Female,33,1-3 months,Basketball,4 - 6 hours,Weekly,124,55,Monthly,502,51,18274,12919,5224
+936952,Christina,Wright,India,Female,60,6-12 months,Other,4 - 6 hours,Weekly,8904,105,Rarely/Never,611,59,49806,3248,66775
+816052,Megan,Butler,Argentina,Female,61,3-6 months,Virtual Games,2 - 4 hours,Monthly,3832,97,Weekly,515,431,2084,1473,9265
+442020,Jennifer,Medina,Brazil,Female,34,6-12 months,Football,1 - 2 hours,Monthly,11308,93,Monthly,673,53,1339,947,20561
+125385,Gary,Miller,Argentina,Female,34,3-6 months,Avitaor,4 - 6 hours,Occasionally,17428,41,Weekly,758,390,43691,8533,40359
+982235,Monique,Baker,Mexico,Female,53,3-6 months,Football,2 - 4 hours,Weekly,18107,48,Weekly,475,21,40720,3297,66245
+338185,Rebecca,Weiss,Brazil,Male,20,More than a year,Basketball,2 - 4 hours,Monthly,24394,89,Monthly,289,294,2774,1961,44193
+898577,Jose,Johnson,Brazil,Female,35,1-3 months,Table Tennis,2 - 4 hours,Daily,8113,79,Monthly,766,15,43762,12885,67098
+567127,Lisa,Hendricks,Brazil,Male,54,3-6 months,Cricket,Less than 1 hour,Weekly,109230,32,Weekly,337,54,50721,25107,137844
+462682,Tiffany,Schneider,Brazil,Female,45,3-6 months,Basketball,Not using per day.,Weekly,16165,30,Daily,268,440,40027,15863,72841
+477881,Samuel,Coleman,Mexico,Female,31,1-3 months,Other,Less than 1 hour,Daily,5062,104,Daily,413,46,28875,21210,52966
+603989,James,Adams,India,Female,43,Less than a month,Basketball,1 - 2 hours,Monthly,7196,54,Weekly,443,115,28893,20427,58818
+919188,Daniel,Chandler,Mexico,Male,53,1-3 months,Cricket,1 - 2 hours,Daily,3452,81,Monthly,540,287,42454,29177,32888
+791189,Morgan,Lewis,Mexico,Male,51,1-3 months,Cricket,4 - 6 hours,Weekly,83807,109,Weekly,530,214,3149,2226,150654
+337509,Ann,Middleton,Argentina,Male,64,6-12 months,Football,4 - 6 hours,Weekly,88468,72,Monthly,190,288,39600,21952,150305
+228423,Dustin,Thompson,Mexico,Male,65,3-6 months,Cards,1 - 2 hours,Weekly,126823,76,Monthly,2475,68,46600,32547,41445
+821028,Joshua,Lester,India,Female,33,More than a year,Football,1 - 2 hours,Monthly,87630,4,Rarely/Never,217,236,23977,8541,85401
+151324,Christopher,Johnson,Argentina,Male,64,More than a year,Cricket,1 - 2 hours,Daily,4011,29,Weekly,276,21,34314,15851,49860
+413583,Gloria,Thompson,India,Male,52,More than a year,Football,4 - 6 hours,Occasionally,7469,59,Weekly,618,2,53497,4962,19299
+238936,Robert,Rivas,Brazil,Female,39,3-6 months,Cricket,2 - 4 hours,Monthly,101207,71,Daily,53,285,64112,2367,23264
+854774,Wayne,Conley,Brazil,Female,47,1-3 months,Virtual Games,1 - 2 hours,Weekly,6881,66,Daily,473,203,49879,38871,65704
+570548,Philip,Bell,Mexico,Male,28,6-12 months,Cricket,1 - 2 hours,Monthly,19908,102,Weekly,629,100,39927,8957,73238
+775177,Jillian,Thompson,Argentina,Male,43,6-12 months,Basketball,4 - 6 hours,Daily,1304,82,Daily,412,107,143101,101168,94930
+910717,Gabriel,Bowers,Argentina,Female,53,Less than a month,Basketball,More than 6 hours,Weekly,1194,89,Weekly,723,43,23094,8359,27283
+158475,Daniel,Flynn,India,Male,43,3-6 months,Cricket,2 - 4 hours,Daily,117203,105,Monthly,628,141,48345,34179,146583
+743173,Julie,Douglas,India,Male,34,3-6 months,Virtual Games,Less than 1 hour,Weekly,9462,83,Rarely/Never,603,2,53223,20072,61768
+733669,Rebecca,Norman,Brazil,Male,40,Less than a month,Football,More than 6 hours,Daily,4751,92,Monthly,385,205,557,394,8631
+129970,Monica,Vasquez,Argentina,Female,25,1-3 months,Avitaor,Less than 1 hour,Monthly,6717,68,Weekly,704,138,95406,4861,95742
+697412,Robert,Cunningham,Brazil,Male,25,3-6 months,Football,1 - 2 hours,Daily,127745,807,Monthly,328,497,31167,10959,138163
+917307,Kevin,Powell,Argentina,Male,37,6-12 months,Basketball,Less than 1 hour,Daily,18469,457,Daily,276,171,20971,2674,16444
+661837,Sandra,Knapp,Brazil,Female,56,6-12 months,Cricket,1 - 2 hours,Daily,9421,47,Monthly,894,407,58524,16097,77170
+516859,Gregory,Mathews,India,Male,41,Less than a month,Virtual Games,2 - 4 hours,Daily,2076,65,Weekly,81,198,13578,5630,20719
+528624,Daniel,Mccall,Brazil,Female,60,1-3 months,Cricket,Less than 1 hour,Daily,25550,100,Monthly,597,459,48749,19990,98949
+447037,George,Mata,Argentina,Female,38,1-3 months,Basketball,More than 6 hours,Occasionally,6247,568,Monthly,307,107,7653,3147,19900
+897972,Jonathan,Lambert,Brazil,Female,24,More than a year,Cricket,Less than 1 hour,Monthly,10975,52,Rarely/Never,499,54,39577,23147,54376
+267894,Douglas,Gonzalez,India,Female,55,Less than a month,Cricket,Less than 1 hour,Monthly,41894,121,Monthly,891,191,40864,30643,96140
+520650,Connie,Murray,Brazil,Male,26,Less than a month,Virtual Games,Less than 1 hour,Monthly,4324,20,Daily,543,176,16847,11910,34681
+357370,James,Salas,Mexico,Female,46,6-12 months,Cricket,Less than 1 hour,Daily,357,22,Weekly,439,83,2321,1641,4059
+278680,Glenn,Massey,Argentina,Male,58,1-3 months,Football,2 - 4 hours,Weekly,14926,104,Rarely/Never,3104,21,99796,79329,159764
+740615,Cheryl,Moreno,Brazil,Female,19,More than a year,Basketball,Less than 1 hour,Daily,29110,79,Daily,544,210,50514,11121,74808
+228792,Carolyn,Greene,Brazil,Female,35,1-3 months,Cricket,2 - 4 hours,Daily,8486,107,Weekly,16340,293,48329,23947,79991
+548908,Leonard,Williams,Brazil,Male,25,Less than a month,Cricket,1 - 2 hours,Weekly,17216,75,Monthly,609,169,29977,1479,54402
+517145,Taylor,Jones,India,Male,50,6-12 months,Cricket,1 - 2 hours,Monthly,7696,45,Weekly,513,66,54839,4713,68030
+604322,Brianna,Vargas,India,Male,29,1-3 months,Basketball,1 - 2 hours,No,3479,36,Weekly,466,250,43482,3452,45825
+921084,Nicole,Abbott,India,Male,19,1-3 months,Football,4 - 6 hours,Weekly,204,102,Weekly,17,333,112910,13600,15938
+777320,Michael,Wilson,Argentina,Female,41,Less than a month,Basketball,1 - 2 hours,Weekly,59818,99,Daily,790,203,20946,14808,49703
+436353,Andrew,Rodriguez,Mexico,Female,42,6-12 months,Football,2 - 4 hours,Weekly,58818,75,Weekly,600,436,77375,22002,142482
+987228,Megan,Carrillo,Argentina,Female,49,Less than a month,Cricket,4 - 6 hours,Monthly,11778,47,Weekly,194,75,59228,1758,81406
+287728,Christopher,Randall,Mexico,Female,69,3-6 months,Virtual Games,1 - 2 hours,Daily,11583,56,Weekly,470,104,41394,28289,65518
+817421,Brandi,Blair,Brazil,Female,59,More than a year,Cricket,1 - 2 hours,Weekly,14382,7,Weekly,684,49,49971,15368,77112
+721630,Sean,Wang,Brazil,Male,52,1-3 months,Cards,4 - 6 hours,Daily,94960,86,Monthly,583,109,7043,4979,108549
+560913,Sandra,Miller,India,Female,40,3-6 months,Basketball,2 - 4 hours,Daily,9579,11,Daily,351,158,82061,2292,80709
+673807,Marie,Hendrix,Brazil,Male,39,More than a year,Cricket,Less than 1 hour,Daily,26004,115,Daily,473,307,54844,38773,106445
+912801,Jonathan,Hernandez,India,Female,68,More than a year,Football,1 - 2 hours,Daily,92295,120,Weekly,643,14,27862,4391,51638
+826884,Michael,Harmon,India,Male,21,More than a year,Cards,1 - 2 hours,Monthly,11794,80,Weekly,12,485,62975,179,74871
+518689,Robert,Reed,Argentina,Female,36,1-3 months,Football,Not using per day.,Daily,46346,49,Daily,360,114,64445,19242,110677
+577180,Alicia,Roach,Argentina,Male,37,More than a year,Virtual Games,1 - 2 hours,Weekly,66664,5,Weekly,558,514,24070,11450,139414
+202264,Michelle,Dodson,Brazil,Male,49,3-6 months,Cricket,Less than 1 hour,Monthly,49654,80,Weekly,452,410,46028,32540,144261
+388819,Jason,Marshall,India,Female,63,3-6 months,Virtual Games,1 - 2 hours,Daily,7123,107,Rarely/Never,54,397,24074,5404,43656
+912289,Curtis,Kline,Brazil,Female,46,3-6 months,Cricket,4 - 6 hours,Monthly,4380,108,Rarely/Never,431,78,22896,21162,46373
+419638,Jose,Levine,Brazil,Male,31,3-6 months,Football,Less than 1 hour,Daily,43940,29,Daily,524,132,2117,1497,75545
+985862,Emily,Robinson,India,Female,52,3-6 months,Cricket,2 - 4 hours,Daily,26463,94,Rarely/Never,274,197,2575,1820,47329
+712753,Lucas,Anderson,Mexico,Male,51,1-3 months,Football,Less than 1 hour,Occasionally,10314,89,Monthly,579,135,73967,1273,87730
+254478,Christina,Franco,Mexico,Male,29,Less than a month,Football,2 - 4 hours,Monthly,24050,65,Weekly,282,180,60654,30104,114652
+460976,Sheila,Smith,India,Female,23,3-6 months,Football,Less than 1 hour,Occasionally,9668,56,Monthly,338,1,30892,9754,59732
+700884,Lisa,Taylor,India,Male,32,More than a year,Basketball,1 - 2 hours,Monthly,4431,85,Monthly,303,430,44476,9573,47583
+374405,Chad,Perez,India,Male,26,1-3 months,Cricket,1 - 2 hours,Daily,133336,34,Monthly,455,100,10865,7681,118643
+944029,Melissa,Hall,Brazil,Male,41,1-3 months,Basketball,1 - 2 hours,Monthly,3514,74,Weekly,699,123,11647,8234,25557
+635848,Connie,Pennington,Argentina,Female,67,6-12 months,Basketball,1 - 2 hours,Occasionally,2106,96,Weekly,29,304,14651,8419,23717
+185817,David,Rogers,Brazil,Male,24,More than a year,Football,1 - 2 hours,Occasionally,48599,88,Daily,382,25,33961,6959,87454
+628534,Regina,Mckinney,Argentina,Female,34,1-3 months,Cricket,Less than 1 hour,Monthly,17256,50,Weekly,471,1,34735,19840,73557
+370407,Cassandra,Owens,Argentina,Male,37,1-3 months,Cricket,Less than 1 hour,Occasionally,7049,71,Weekly,238,200,64694,2572,10628
+817526,Brandon,Contreras,India,Male,59,6-12 months,Virtual Games,Less than 1 hour,Occasionally,10034,526,Weekly,134,35,28729,20311,8215
+389008,Andrea,Graham,Argentina,Male,19,3-6 months,Football,1 - 2 hours,Monthly,110714,62,Daily,479,177,15110,10682,109880
+437399,Sean,Gibbs,Argentina,Female,47,More than a year,Cricket,1 - 2 hours,Daily,4838,261,Rarely/Never,655,193,12183,8613,30234
+316788,Hailey,Buchanan,Mexico,Male,41,1-3 months,Virtual Games,4 - 6 hours,Daily,69161,850,Monthly,356,95,6322,4469,93744
+997933,Holly,Malone,Brazil,Male,33,More than a year,Avitaor,Not using per day.,Occasionally,13281,105,Weekly,377,406,48375,37089,88545
+946393,Linda,Garcia,Argentina,Female,47,1-3 months,Cricket,4 - 6 hours,Weekly,18498,100,Weekly,804,255,41028,5091,68626
+683070,Lauren,Gibbs,Argentina,Female,24,1-3 months,Cards,1 - 2 hours,Monthly,15139,85,Weekly,163,3213,49169,7679,71938
+287085,Mary,Jones,Mexico,Female,30,More than a year,Cricket,4 - 6 hours,Monthly,3095,63,Monthly,18954,193,24867,5577,32250
+206676,Benjamin,Smith,Mexico,Female,56,3-6 months,Football,Less than 1 hour,Occasionally,18245,89,Weekly,655,613,43226,4239,69320
+875125,Autumn,Jones,Mexico,Male,37,Less than a month,Cricket,4 - 6 hours,Monthly,407,43,Daily,158,129,73525,23109,9337
+263081,David,Ross,Mexico,Female,19,More than a year,Cricket,More than 6 hours,Daily,6560,44,Monthly,104,8,14050,3030,24935
+855543,Cynthia,Stone,Mexico,Female,62,1-3 months,Football,Not using per day.,Daily,9852,12,Daily,798,20,62151,22959,69554
+684158,Jose,Baker,Argentina,Male,58,3-6 months,Avitaor,4 - 6 hours,Daily,14295,18,Weekly,294,64,47289,6319,67869
+156667,Evan,Evans,Brazil,Male,69,6-12 months,Cricket,1 - 2 hours,Monthly,9184,96,Daily,736,514,22680,12507,44219
+113768,Holly,Taylor,Mexico,Female,51,Less than a month,Cricket,2 - 4 hours,Monthly,13097,95,Rarely/Never,497,42,6273,4435,30469
+319883,Robert,Mendoza,India,Male,59,More than a year,Virtual Games,2 - 4 hours,Daily,117774,76,Weekly,301,147,9573,7902,40523
+597540,Ryan,Cobb,India,Male,43,1-3 months,Cricket,1 - 2 hours,No,46497,113,Monthly,854,511,40985,13875,134445
+865859,Jennifer,Perez,Mexico,Female,40,1-3 months,Basketball,2 - 4 hours,Weekly,15573,53,Weekly,245,178,3257,2303,30307
+871755,Larry,Chavez,Mexico,Male,22,1-3 months,Virtual Games,4 - 6 hours,Weekly,344,91,Weekly,279,302,66738,9415,23978
+541358,Douglas,Turner,Argentina,Male,26,3-6 months,Football,2 - 4 hours,Monthly,27016,14,Weekly,391,200,73631,26859,68066
+841973,Joseph,Villarreal,India,Female,42,More than a year,Cricket,2 - 4 hours,Daily,20378,28,Weekly,690,319,121,86,33822
+278225,Jennifer,Fuentes,India,Male,36,6-12 months,Cricket,1 - 2 hours,Monthly,1351,110,Monthly,861,235,33810,15502,41205
+507292,Erica,Jones,Argentina,Male,22,1-3 months,Cricket,4 - 6 hours,Daily,19273,70,Weekly,676,280,15734,6256,49983
+173713,William,Johnson,Argentina,Male,28,3-6 months,Table Tennis,2 - 4 hours,Weekly,6108,47,Weekly,535,180,15237,10772,37986
+893220,Anthony,Woodard,India,Female,63,More than a year,Cricket,4 - 6 hours,Weekly,720,66,Monthly,772,287,6432,4547,10437
+856222,Ernest,Rodriguez,Mexico,Female,69,1-3 months,Cricket,Less than 1 hour,Daily,4223,78,Monthly,7,261,43464,835,46081
+312333,Alyssa,Mason,Brazil,Female,26,1-3 months,Cricket,2 - 4 hours,Daily,3804,66,Daily,656,31,26163,9561,38362
+407878,Shane,Lewis,Argentina,Female,41,1-3 months,Basketball,1 - 2 hours,Daily,17229,48,Weekly,741,27,50374,29150,23018
+366221,Heidi,Morgan,Brazil,Female,32,More than a year,Cricket,Less than 1 hour,Weekly,52057,44,Daily,485,58,13506,9548,85356
+640978,David,Salas,Brazil,Female,40,1-3 months,Cricket,2 - 4 hours,Daily,10386,77,Monthly,1745,260,41574,4790,66201
+277843,Samuel,Jones,Brazil,Female,31,3-6 months,Football,Less than 1 hour,Daily,2741,106,Daily,150,90,26596,17302,41315
+899369,Christine,Alvarez,Mexico,Female,30,1-3 months,Cricket,1 - 2 hours,Weekly,20381,56,Monthly,502,174,66577,7428,74000
+535149,Andrew,Brown,Mexico,Male,33,6-12 months,Cricket,1 - 2 hours,No,116725,109,Rarely/Never,641,11,2973,2102,90010
+510618,Jared,Wallace,Argentina,Female,63,1-3 months,Cricket,1 - 2 hours,Weekly,543,67,Rarely/Never,255,141,18170,16957,27866
+740044,Katherine,Wells,Mexico,Male,34,Less than a month,Basketball,2 - 4 hours,Daily,12106,94,Rarely/Never,708,48,34308,5565,52914

@@ -12,6 +12,8 @@ pyYAML # use for yaml file
 ensure==1.0.2   
 joblib # to save the machine learning model
 types-pyYAML
+faker # to generate fake dataset
+xgboost
 Flask
 Flask-Cors
 -e . # to setup the local packages
