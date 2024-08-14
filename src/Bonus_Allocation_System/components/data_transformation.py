@@ -18,9 +18,14 @@ class DataTransformation:
 
     def train_test_spliting(self):
         data = pd.read_csv(self.config.data_path)
+        X = data[['Winning_percentage', 'Average_Bet_Amount',
+       'Number_of_Bonuses_Received', 'Amount_of_Bonuses_Received',
+       'Revenue_from_Bonuses','Should_Receive_Bonus']]
+    
+        train, test = train_test_split(X)
 
         # Split the data into training and test sets. (0.75, 0.25) split.
-        train, test = train_test_split(data)
+        # train, test = train_test_split(data)
 
         train.to_csv(os.path.join(self.config.root_dir, "train.csv"),index = False)
         test.to_csv(os.path.join(self.config.root_dir, "test.csv"),index = False)
