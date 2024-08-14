@@ -17,7 +17,7 @@ class DataIngestion:
             engine = create_engine("mysql+pymysql://{user}:{pw}@localhost/{db}"
                        .format(user = "root",    # user
                                pw = "nitd123",      # passwrd
-                               db = "project_data")) 
+                               db = "project")) 
             
             sql = 'SELECT * FROM project_data'
             
