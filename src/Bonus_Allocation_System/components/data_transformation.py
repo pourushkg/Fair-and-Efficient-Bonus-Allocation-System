@@ -128,10 +128,6 @@ class DataTransformation:
         plt.savefig("./images/Taget_variable_pie_chart.png")
         plt.close()
 
-
-
-
-
         X = data[['Winning_percentage', 'Average_Bet_Amount',
        'Number_of_Bonuses_Received', 'Amount_of_Bonuses_Received',
        'Revenue_from_Bonuses','Should_Receive_Bonus']]

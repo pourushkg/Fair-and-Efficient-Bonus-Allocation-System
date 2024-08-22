@@ -16,4 +16,5 @@ faker # to generate fake dataset
 xgboost
 Flask
 Flask-Cors
+streamlit
 -e . # to setup the local packages

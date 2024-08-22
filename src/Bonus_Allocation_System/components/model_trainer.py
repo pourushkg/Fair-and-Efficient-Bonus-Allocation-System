@@ -13,7 +13,6 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report,ConfusionMatrixDisplay, \
                             precision_score, recall_score, f1_score, roc_auc_score,roc_curve 
 from xgboost import XGBClassifier
-from catboost import CatBoostClassifier
 from sklearn.model_selection import train_test_split
 
 class ModelTrainer:
@@ -27,13 +26,12 @@ class ModelTrainer:
         test_data = pd.read_csv(self.config.test_data_path)
         train_data.head()
         models = {
+            "XGBClassifier": XGBClassifier(),
             "Random Forest": RandomForestClassifier(),
             "Decision Tree": DecisionTreeClassifier(),
             "Gradient Boosting": GradientBoostingClassifier(),
             "Logistic Regression": LogisticRegression(),
             "K-Neighbors Classifier": KNeighborsClassifier(),
-            "XGBClassifier": XGBClassifier(), 
-            "CatBoosting Classifier": CatBoostClassifier(verbose=False),
             "Support Vector Classifier": SVC(),
             "AdaBoost Classifier": AdaBoostClassifier()
             }
@@ -54,8 +52,18 @@ class ModelTrainer:
         y_train = train_data[['Should_Receive_Bonus']]
         y_test = test_data[['Should_Receive_Bonus']]
         models_list = []
-        accuracy_list = []
-        auc= []
+        train_accuracy_list = []
+        test_accurary_list = []
+        train_f1_score_list = []
+        test_f1_score_list = []
+        train_precision_list = []
+        test_precision_list = []
+        train_recall_list = []
+        test_recall_list = []
+        train_auc_roc_list = []
+        test_auc_roc_list = []
+
+    
         for i in range(len(list(models))):
             model = list(models.values())[i]
             model.fit(X_train, y_train) # Train model
@@ -78,28 +86,47 @@ class ModelTrainer:
 
             print('Model performance for Training set')
             print("- Accuracy: {:.4f}".format(model_train_accuracy))
+            train_accuracy_list.append(model_train_accuracy)
             print('- F1 score: {:.4f}'.format(model_train_f1)) 
+            train_f1_score_list.append(model_train_f1)
             print('- Precision: {:.4f}'.format(model_train_precision))
+            train_precision_list.append(model_train_precision)
             print('- Recall: {:.4f}'.format(model_train_recall))
+            train_recall_list.append(model_train_recall)
             print('- Roc Auc Score: {:.4f}'.format(model_train_rocauc_score))
+            train_auc_roc_list.append(model_train_rocauc_score)
 
             print('----------------------------------')
 
             print('Model performance for Test set')
             print('- Accuracy: {:.4f}'.format(model_test_accuracy))
-            accuracy_list.append(model_test_accuracy)
+            test_accurary_list.append(model_test_accuracy)
             print('- F1 score: {:.4f}'.format(model_test_f1))
+            test_f1_score_list.append(model_test_f1)
             print('- Precision: {:.4f}'.format(model_test_precision))
+            test_precision_list.append(model_test_precision)
             print('- Recall: {:.4f}'.format(model_test_recall))
+            test_recall_list.append(model_test_recall)
             print('- Roc Auc Score: {:.4f}'.format(model_test_rocauc_score))
-            auc.append(model_test_rocauc_score)
+            test_auc_roc_list.append(model_test_rocauc_score)
+
             print('='*35)
             print('\n')
         
-        report=pd.DataFrame(list(zip(models_list, accuracy_list)), columns=['Model Name', 'Accuracy']).sort_values(by=['Accuracy'], ascending=False)
+        report=pd.DataFrame(list(zip(models_list, train_accuracy_list,test_accurary_list,\
+                                    train_f1_score_list,test_f1_score_list, train_precision_list,\
+                                    test_precision_list, train_recall_list,test_recall_list, \
+                                    train_auc_roc_list,test_auc_roc_list )), columns=['Model Name',\
+                                    "train_accuracy","test_accuracy", "train_f1_score","test_f1_score",\
+                                    "train_precision","test_precision", "train_recall","test_recall", \
+                                    "train_auc_roc","test_auc_roc" ]).sort_values(by=['test_accuracy'], ascending=False)
+        report["train_test_acc_diff"] = report["train_accuracy"]-report["test_accuracy"]
         logger.info("Final accurary table")
         print(report.to_string(index=False))
-        xbg = XGBClassifier()
+        logger.info(report.to_string(index=False))
+        logger.info("From the table we get to known that RandomForestClassifier perform the best")
+        xbg = RandomForestClassifier()
+        xbg.fit(X_train, y_train)
         joblib.dump(xbg, os.path.join(self.config.root_dir, self.config.model_name))
         return report
 
